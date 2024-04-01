@@ -1,0 +1,1004 @@
+
+NEW CHUNK OF DATA
+city_name	population	average_income	area_sq_km	founded_date	mayor_name	tourist_attractions	average_temperature	time_zone	major_industries
+Kasangulu	6929752	75220.57	37.37	3/29/1865	Graeme Heathwood	museum	15.0	Africa/Kinshasa	tourism
+Alfortville	6026639	49253.31	91.94	3/7/1828	Anya Anselmi	park	13.8	Europe/Paris	technology
+Blois	5822800	54224.79	999.46	10/12/1782	Flem Setch	museum	15.7	Europe/Paris	tourism
+R S	2466409	61770.99	552.2	2/7/1948	Belinda Jedraszek	park	37.5	Asia/Kolkata	technology
+Des Moines	5317847	73805.52	408.81	9/21/2016	Hewitt Cordingley	museum	2.3	America/Chicago	technology
+Junín	9232493	46715.54	126.11	10/19/1725	Maurice Myall	museum	25.7	America/Lima	manufacturing
+Talin Hiag	1787199	48835.18	281.13	4/13/1993	Gordon Joontjes	monument	-8.0	Asia/Harbin	tourism
+Panolan	7526349	88681.15	454.13	3/14/1889	Enrica Klishin	museum	24.3	Asia/Jakarta	manufacturing
+Dresden	35398	74903.1	107.29	5/15/1787	Clair Bruni	park	-17.6	Europe/Berlin	manufacturing
+Aurora	1268749	52385.85	895.02	7/23/1772	Don Verrick	museum	30.6	Asia/Manila	tourism
+Vetlanda	772245	39042.83	409.32	8/17/1944	Terri Woodberry	monument	23.8	Europe/Stockholm	technology
+Broby	9420109	30806.21	790.81	10/10/1728	Zechariah Robbert	museum	27.5	Europe/Helsinki	technology
+Xinglong	6512004	27471.53	772.53	5/6/1720	Tiffy Dobble	park	36.8	Asia/Chongqing	tourism
+Pan de Azúcar	1332250	46330.44	412.73	7/11/1926	Delcina Merveille	park	-17.9	America/Montevideo	technology
+Vyazniki	1112124	33155.49	567.06	8/17/1828	Barrie Sapshed	monument	-17.7	Europe/Moscow	manufacturing
+Lunec	2736545	33733.42	29.98	4/19/1753	Lisha Rumbellow	museum	28.8	Asia/Manila	manufacturing
+Udanin	8772309	22037.7	122.91	11/22/1810	Juliet Djorevic	park	19.8	Europe/Warsaw	tourism
+Kŭlob	889809	98670.21	21.07	6/12/1789	Sheila Boriston	museum	28.0	Asia/Dushanbe	technology
+Huangjiazhai	5223160	38025.78	704.28	7/8/1826	Theda Whitlock	museum	14.6	Asia/Chongqing	tourism
+Trindade	9436185	26808.96	718.5	10/28/1919	Roberto Caswill	monument	4.5	America/Sao_Paulo	manufacturing
+Kugesi	7709317	47679.24	708.5	2/21/1781	Jolene Barhams	museum	25.2	Europe/Moscow	manufacturing
+Kamo	8725369	45457.48	552.77	11/5/1769	Brook Benda	park	19.5	Asia/Yerevan	tourism
+Nezamyslice	7034278	30480.68	672.08	8/25/1881	Eldredge Sears	park	34.9	Europe/Prague	tourism
+Kołbaskowo	303232	47202.51	950.99	5/15/1761	Remus Swetmore	monument	33.3	Europe/Warsaw	manufacturing
+Al Majāridah	5471220	66144.24	748.83	3/4/1870	Alvin Allone	park	5.5	Asia/Riyadh	technology
+Matala	9892695	67865.98	174.27	8/15/2022	Deane Cornilleau	museum	12.3	Asia/Manila	tourism
+Fulong	5778237	45157.73	669.97	5/7/1785	Zechariah Gretton	museum	8.4	Asia/Shanghai	tourism
+Baohe	3028813	51040.47	181.9	12/27/1974	Herc Matelaitis	park	-17.6	Asia/Chongqing	technology
+Kyshtym	4694223	35449.79	406.41	2/2/1886	Alexina Humphrys	park	-10.7	Asia/Yekaterinburg	technology
+Mishkino	7750680	73433.95	404.7	7/16/1986	Kippie Kivlin	park	-4.2	Asia/Yekaterinburg	tourism
+Tushi	9698221	56906.91	92.62	11/19/1927	Lynnette Dowty	museum	-8.4	Asia/Chongqing	technology
+Nine	7246490	46776.64	425.39	9/21/1729	Ahmad Villa	monument	19.9	Europe/Lisbon	technology
+Huazhuang	8665238	45203.99	954.88	9/12/1701	Colette Champken	monument	5.9	Asia/Shanghai	manufacturing
+Phumĭ Véal Srê	2839223	69469.04	51.26	2/28/1714	Benedicta Raycroft	monument	16.8	Asia/Phnom_Penh	technology
+Eldama Ravine	6074818	40133.01	101.2	3/3/1822	Sabina Tiner	museum	-8.8	Africa/Nairobi	tourism
+Caburan	2830353	54664.95	559.6	7/3/1908	Maridel Fonzone	monument	24.0	Asia/Manila	manufacturing
+San Justo	7073963	82809.95	118.51	10/5/1858	Joscelin Canada	monument	28.5	America/Argentina/Cordoba	tourism
+Karamat	8440988	93712.0	867.06	6/5/1980	Nisse Habard	park	36.3	Asia/Jakarta	tourism
+Bilajari	5647531	67284.78	482.45	2/9/1939	Hill McGready	monument	29.2	Asia/Baku	technology
+Radzanów	7959963	94210.94	48.79	2/10/1884	Cindi Baudoux	park	28.7	Europe/Warsaw	manufacturing
+Leshan	7636280	26439.58	415.94	10/15/1719	Drud Wareing	monument	36.7	Asia/Shanghai	technology
+Gaocheng	3759814	80989.46	249.22	7/30/1903	Venita Dagworthy	museum	-0.6	Asia/Chongqing	technology
+Qiandeng	9580191	43076.28	837.81	10/2/1983	Fredericka Blesli	park	18.3	Asia/Shanghai	manufacturing
+Crnilište	2409706	44183.83	329.02	4/29/1868	Sanderson covino	museum	-1.2	Europe/Skopje	tourism
+Changfeng	1761556	30714.34	643.69	1/15/1802	Rivy Outram	park	-8.3	Asia/Chongqing	tourism
+Costa de Rios Frios	5419756	87916.16	304.75	11/7/1800	Mervin Tabary	museum	-10.8	Europe/Lisbon	manufacturing
+Gambalidio	5330747	37066.87	877.06	9/3/1726	Karola Jelkes	park	16.4	Asia/Manila	manufacturing
+Viamão	5510137	97950.58	559.15	10/14/1885	Katti Dreng	museum	17.3	America/Sao_Paulo	manufacturing
+Shigony	9057284	34714.91	747.32	12/31/1843	Berrie Jepensen	monument	12.2	Europe/Samara	tourism
+Bao’an	8696919	39917.32	106.61	2/12/1900	Danny Paulon	museum	11.8	Asia/Chongqing	technology
+Sumberpucung	2440897	21122.46	961.7	10/17/1714	Dulcia Alston	monument	-10.1	Asia/Jakarta	technology
+La Ligua	3843999	42199.48	903.06	8/14/1725	Jeannette Gettins	park	-5.3	America/Santiago	manufacturing
+Paris 13	7342299	58426.52	573.11	3/19/1947	Lyssa MacLaverty	park	-5.1	Europe/Paris	manufacturing
+Maydolong	7970736	53112.5	159.67	8/19/1896	Tommy Beseke	park	19.1	Asia/Manila	manufacturing
+Eslöv	2109407	35433.1	275.2	4/29/1792	Maureene Macvain	museum	2.4	Europe/Stockholm	technology
+Alis	2979983	89635.4	469.6	3/22/1845	Jermaine Mirralls	museum	14.8	America/Lima	technology
+Guantánamo	779279	88455.79	719.12	9/18/1885	Amalle Delicate	museum	33.3	America/Havana	tourism
+Zhongshanmen	2870978	67005.97	240.51	2/21/1847	Roddy Sudy	museum	-13.8	Asia/Shanghai	technology
+Haninge	3023092	58170.12	683.37	4/1/1717	Franchot Blincow	museum	37.2	Europe/Stockholm	manufacturing
+Göteborg	2664855	53543.97	353.98	1/23/1887	Amandie Coners	park	-17.3	Europe/Stockholm	manufacturing
+Pho Thong	2773892	67551.56	692.24	10/9/1794	Nickie Wernham	park	-15.1	Asia/Bangkok	manufacturing
+Liloy	6103279	95535.23	475.87	10/2/2007	Dorian Pullman	park	10.8	Asia/Manila	manufacturing
+Yushang	2131730	51506.96	17.88	6/8/1719	Gay Haseman	museum	-9.3	Asia/Shanghai	tourism
+Wanmu	2495092	68955.32	447.03	11/4/1995	Suzette Gwilliam	park	24.6	Asia/Chongqing	tourism
+Bazha	1963880	51812.68	763.81	6/8/1724	Pearce Bourdas	museum	33.4	Asia/Urumqi	manufacturing
+Jiangkou	5216523	92436.02	91.08	7/17/1772	Giraldo Eginton	monument	-13.5	Asia/Shanghai	manufacturing
+Murygino	7799245	90503.26	366.69	6/20/1819	Virgina Kenforth	museum	25.3	Europe/Volgograd	technology
+Smokvica	7163367	83869.54	881.4	6/22/1805	Sherwynd Krimmer	monument	13.2	Europe/Zagreb	tourism
+Chisht-e Sharīf	878721	81070.29	668.08	8/19/1990	Nissie Shobbrook	monument	-15.5	Asia/Kabul	tourism
+Soe	7951622	39379.77	372.83	3/20/1989	Wheeler Gowar	monument	0.9	Asia/Makassar	tourism
+Bayān	2532360	54424.8	30.71	10/11/1837	Alexander Adami	museum	-18.3	Asia/Kuwait	technology
+Mirontsi	4058510	75490.2	978.81	3/8/1736	Nessi Southcombe	museum	19.3	Indian/Comoro	technology
+Moundou	2157430	87209.89	91.24	5/7/1714	Galvan Eirwin	park	-9.9	Africa/Ndjamena	technology
+Jiangxi	6631948	35262.0	892.81	12/29/1898	Aurea Slator	museum	-14.4	Asia/Chongqing	tourism
+Karukh	7288720	62485.03	991.04	8/31/1756	Anastasie Mawby	monument	32.3	Asia/Kabul	technology
+Montgomery	130374	33344.38	805.51	11/9/1876	Sammy Edens	park	32.8	America/Chicago	technology
+Bečej	2356239	42869.93	97.84	6/19/1750	Rhea Snaddin	park	-2.1	Europe/Belgrade	technology
+Carolina	1665991	67559.26	111.09	8/2/1960	Octavia Dacombe	museum	-10.8	America/Puerto_Rico	tourism
+Lantian	9174885	70355.97	967.26	3/6/1786	Merwyn Selwyn	park	-17.7	Asia/Shanghai	tourism
+Nove-Misto	6881986	23657.95	556.76	8/25/1822	Itch Faithfull	monument	18.7	Europe/Kiev	technology
+Jistebník	8210626	46969.75	168.27	2/9/1841	Emory Marchelli	museum	2.4	Europe/Prague	manufacturing
+Ōnojō	4247573	90961.73	72.63	1/22/2008	Selene Christiensen	monument	38.6	Asia/Tokyo	technology
+Tizgane	3558502	76656.96	39.64	5/30/1800	Risa Soppett	museum	-10.3	Africa/Casablanca	technology
+Fenghuangdong	4661017	69624.36	843.57	7/19/1765	Eryn Bracher	park	-16.2	Asia/Shanghai	technology
+Horní Bříza	2553724	54169.33	591.03	1/16/1909	Katheryn Chick	park	-5.5	Europe/Prague	manufacturing
+Babantar	4302125	91119.84	562.07	2/6/2018	Ferdinand Littleproud	monument	1.3	Asia/Jakarta	manufacturing
+Taunan	9673360	21161.69	971.41	3/22/1906	Fernando McCulloch	park	3.7	Asia/Jakarta	technology
+Longqiao	9649209	62335.68	236.88	7/7/1791	Pammy Simpkins	park	-16.1	Asia/Chongqing	tourism
+Ceerigaabo	2857004	49834.16	761.88	11/14/1848	Juditha Cotgrave	park	3.0	Africa/Mogadishu	tourism
+Gangnan	121433	92233.97	112.46	8/28/1887	Tallie Oxnam	museum	-18.6	Asia/Shanghai	tourism
+Shun’ga	7957199	91414.63	673.47	7/14/1701	Noella Dacombe	monument	-1.4	Europe/Moscow	tourism
+Lanxi	8223709	23559.65	565.9	10/28/1979	Cullen Meffin	park	-7.3	Asia/Chongqing	tourism
+Enskededalen	1025253	91773.33	322.95	1/16/2010	Jobye Coweuppe	museum	4.0	Europe/Stockholm	technology
+Sundumbili	241101	63801.38	259.25	2/22/1927	Padraig Hayesman	monument	-9.2	Africa/Johannesburg	technology
+Ouijjane	7332765	59784.34	526.31	10/11/1822	Cristie Twaite	monument	26.3	Africa/Casablanca	manufacturing
+Fengting	5105971	21696.81	771.6	10/18/2013	Laughton Lewsley	monument	39.7	Asia/Shanghai	tourism
+Cardal	2530237	69914.1	457.0	6/12/1706	Perri Draysey	park	0.6	Europe/Lisbon	manufacturing
+Pasirtujuhpuluh	2187493	63008.83	196.31	7/3/1729	Mycah Odam	museum	-1.4	Asia/Jakarta	tourism
+Anoek	4383708	76099.78	896.54	10/20/1790	Garold Denerley	monument	-18.8	Asia/Makassar	manufacturing
+Letpandan	754887	76957.84	809.65	5/30/1723	Barbe Fearnyhough	park	33.7	Asia/Rangoon	tourism
+Villanova	7978902	30465.86	462.05	9/10/1727	Roger Licciardi	monument	34.2	Europe/Rome	manufacturing
+Yangzi	4784043	90991.61	499.83	3/29/1982	Germain Vipan	museum	18.1	Asia/Shanghai	tourism
+Miskindzha	2888359	31556.84	937.11	10/14/1730	Theadora Klimuk	park	-15.4	Asia/Baku	tourism
+Hewan	4438992	52858.04	846.96	9/10/1709	Olin Devo	monument	19.4	Asia/Shanghai	technology
+Xinzhu	9499477	55693.7	229.95	12/10/1719	Zak Moan	park	32.4	Asia/Chongqing	tourism
+Padaran	3463206	57820.76	11.38	5/4/1809	Hyacintha Bumfrey	park	-1.2	Asia/Jakarta	tourism
+Longping	6991995	91052.32	924.86	4/12/1828	Angelle Sweet	museum	17.9	Asia/Chongqing	technology
+Staraya Kulatka	2207366	98770.05	673.41	1/26/1881	Fayina Cohalan	museum	7.9	Europe/Volgograd	technology
+Dongmaku	9896125	59016.25	552.92	9/17/1770	Sayre Lulham	park	1.3	Asia/Chongqing	tourism
+Blinsung	9103685	46712.32	871.83	5/5/2012	Stanislas Mixer	park	-0.9	Asia/Manila	technology
+Adolfo Lopez Mateos	3143248	83179.44	491.2	2/24/1810	Gabi Briston	museum	14.1	America/Mexico_City	tourism
+Oeoh	8894813	89790.47	150.12	4/4/1864	Jory Garrod	museum	33.2	Asia/Makassar	tourism
+Barqueiro	8762684	64703.6	925.05	7/18/1793	Evonne Purcer	monument	12.7	Europe/Lisbon	tourism
+Sogamoso	626646	68564.64	400.61	8/21/1717	Claudio Gehrels	museum	-15.5	America/Bogota	manufacturing
+Ciawi	9583413	41956.42	171.58	8/16/1823	Morgan Glazier	museum	-9.8	Asia/Jakarta	manufacturing
+Gunung	3812254	96942.96	444.0	8/29/1923	Codi Dorn	park	-2.2	Asia/Jakarta	manufacturing
+Aubergenville	5208172	50686.36	945.09	12/11/2009	Gabbi Palatini	museum	10.6	Europe/Paris	manufacturing
+Mingyuedian	3478069	47705.61	517.14	12/30/1945	Eddie Jovey	museum	-16.2	Asia/Shanghai	tourism
+Sulahan	8186618	25294.89	133.66	3/21/1941	Sergeant Saltrese	monument	-10.1	Asia/Makassar	manufacturing
+Shuiquan	338878	87004.61	823.25	11/9/1815	Amalle Buey	monument	-2.0	Asia/Harbin	technology
+Gaojiabu	3408973	42059.34	649.48	9/4/1962	Otha Elion	park	35.7	Asia/Shanghai	tourism
+Zouérat	1844803	37584.37	643.54	6/22/1762	Alyce Ledley	museum	31.7	Africa/El_Aaiun	technology
+Januária	1527626	88968.8	644.5	5/19/1710	Arabella Guilaem	museum	-12.8	America/Sao_Paulo	technology
+Skhodnya	6190948	60608.8	291.59	5/14/1997	Hymie Iwanowski	museum	-16.7	Europe/Moscow	manufacturing
+Jenang Selatan	6677817	88438.09	438.64	6/17/1902	Linell Dugdale	museum	13.7	Asia/Jakarta	tourism
+Beiyang	1790083	98272.11	306.67	11/22/1726	Phip Bawden	museum	39.8	Asia/Shanghai	tourism
+Volodarka	9558368	21833.02	280.82	5/13/1766	Myrvyn Richardet	museum	34.9	Europe/Kiev	manufacturing
+Montelíbano	4722561	74660.14	100.94	7/20/1752	Vicky Vauls	museum	-9.2	America/Bogota	manufacturing
+Fershampenuaz	1747384	45356.49	668.16	6/27/1773	Eugine Bristowe	museum	11.8	Asia/Yekaterinburg	manufacturing
+Bantarpanjang	6696364	37969.23	95.72	1/12/1759	Aldrich Salomon	monument	39.2	Asia/Jakarta	tourism
+Bestala	596033	98571.15	450.66	6/17/1722	Lucie Skayman	monument	-10.8	Asia/Makassar	manufacturing
+Jalapa	1971443	84552.89	42.01	5/1/1931	Pattin Krishtopaittis	museum	35.2	America/Managua	technology
+Aozai	5013354	95266.35	642.77	10/14/1847	Bradan Byatt	monument	31.8	Asia/Chongqing	manufacturing
+General Arenales	715121	65875.21	257.0	6/15/1778	Alberto Ashborne	park	24.4	America/Argentina/Buenos_Aires	tourism
+Virden	3467556	94913.15	300.99	1/4/1784	Ibrahim Haysar	museum	31.3	America/Winnipeg	manufacturing
+Bontang Baru	5383164	51093.03	403.01	12/27/1968	Pauly Learmonth	park	31.8	Asia/Makassar	tourism
+Saboyá	6203563	54382.63	940.0	9/25/1745	Jarrad Karle	museum	-16.7	America/Bogota	technology
+København	6569151	54674.35	332.54	5/20/1814	Tedi Smyley	museum	1.8	Europe/Copenhagen	manufacturing
+Mumen	1868408	43830.2	681.72	9/3/1914	Rhody Desantis	museum	9.3	Asia/Chongqing	technology
+Fernández	355780	28662.83	442.03	6/20/1904	Calypso Asel	museum	14.1	America/Argentina/Cordoba	technology
+Jiamiao	9993209	68812.54	738.06	1/23/1873	Nico Wolstenholme	museum	-8.0	Asia/Shanghai	tourism
+Lantian	4016041	86607.12	454.91	11/2/1956	Jase Morville	monument	4.1	Asia/Chongqing	manufacturing
+Lubumbashi	5195463	83929.47	977.87	2/24/1892	Imelda Martinson	museum	4.3	Africa/Lubumbashi	tourism
+Ruda-Huta	6504517	96844.3	749.6	2/2/1712	Ruben Squirrell	park	21.1	Europe/Warsaw	manufacturing
+Ilhéus	4386724	27115.07	460.74	5/15/1799	Cate Fairnington	museum	16.0	America/Bahia	manufacturing
+Pukekohe East	4323107	20170.06	411.21	4/26/1716	Sly MacCurlye	museum	8.0	Pacific/Auckland	technology
+Bogdanovich	2300604	42742.09	232.84	11/7/1838	Jodie Logesdale	monument	-18.0	Asia/Yekaterinburg	manufacturing
+Minbu	8688830	46437.03	383.09	10/12/1873	Sianna Stoyles	monument	37.8	Asia/Rangoon	manufacturing
+Buenavista	3330745	65268.37	579.09	4/15/1848	Nicolis Port	monument	27.2	America/Bogota	tourism
+Misau	6068787	46336.4	374.38	1/21/1959	Sherry Angrick	monument	-3.7	Africa/Lagos	technology
+Umeå	8812428	65645.29	808.75	9/14/1724	Lonee Snashall	monument	2.3	Europe/Stockholm	manufacturing
+Colegiales	806733	23735.76	973.08	4/1/1818	Edyth Adamiak	monument	7.2	America/Argentina/Buenos_Aires	tourism
+Ipu	744676	93393.91	463.14	6/5/1734	Wallache Hollington	monument	16.2	America/Fortaleza	manufacturing
+Gaopu	7857113	82746.06	924.6	2/15/1816	Gasper Keyzor	park	8.1	Asia/Shanghai	manufacturing
+Bromma	611258	42356.29	308.1	11/27/1977	Hedy Peasegod	museum	-2.4	Europe/Stockholm	manufacturing
+Vale de Figueira	9819264	41080.38	362.11	12/24/1954	Tomasina Landes	museum	7.4	Europe/Lisbon	technology
+Cipicung	1376052	20031.74	939.83	9/21/1952	Prinz McCurtain	museum	4.6	Asia/Jakarta	technology
+Lijie	6678819	51464.6	734.82	6/18/2017	Jedediah Miskelly	monument	29.0	Asia/Chongqing	tourism
+Touguinha	2296040	61519.94	480.57	1/27/1878	Bendicty Scholar	museum	-10.2	Europe/Lisbon	tourism
+Khashuri	1558999	68359.68	137.32	1/10/1725	Vincenz Nowak	museum	8.0	Asia/Tbilisi	manufacturing
+Kuangshan	7806677	94888.8	389.12	11/24/1823	Nikki Foystone	monument	-9.2	Asia/Chongqing	technology
+Bida	548416	69795.79	66.94	1/13/1818	Cordie Schuchmacher	museum	25.5	Africa/Lagos	tourism
+Vũ Quang	7543535	73048.74	390.23	9/15/1737	Berni Skitteral	park	-18.4	Asia/Ho_Chi_Minh	manufacturing
+Cumaná	50191	77660.04	407.35	4/1/1959	Kandy Kuhlen	park	-13.3	America/Caracas	manufacturing
+Amparo	7896182	68780.53	961.13	7/13/1918	Nikaniki Colliar	museum	38.9	America/Sao_Paulo	technology
+Miharu	9955685	23579.65	673.61	1/16/1837	Keene Wellings	park	5.9	Asia/Tokyo	technology
+Duowa	2065449	76370.4	867.55	5/13/1808	Arlana Belitz	park	-2.4	Asia/Chongqing	manufacturing
+Naikolan	5567268	63570.97	604.02	2/10/2016	Mirabelle Ferens	monument	-16.1	Asia/Makassar	technology
+Mianduhe	7714087	33251.58	97.35	11/11/1901	Hilda Fitzmaurice	monument	-4.5	Asia/Harbin	manufacturing
+Sumberkrajan	3692143	25931.02	944.4	8/7/1708	Leicester Matfin	museum	-13.7	Asia/Jakarta	tourism
+Jalpatagua	9892550	51252.94	166.98	4/23/1910	Silas Thebeau	monument	1.3	America/Guatemala	technology
+Casal Novo	2830808	28706.42	628.04	4/13/1824	Gwendolin Vint	museum	11.9	Europe/Lisbon	technology
+Mainang	8679459	84429.46	648.65	10/7/1904	Carroll Khoter	museum	33.1	Asia/Makassar	technology
+Kaz	8505488	86275.2	945.01	11/3/1922	Eleonora Huskinson	park	6.0	Asia/Novokuznetsk	manufacturing
+Coutada	2340552	73076.69	512.22	8/6/2017	Christie Ellul	museum	-20.0	Europe/Lisbon	technology
+Fundación	9230619	25099.22	93.61	11/29/1789	Emmett Hendonson	museum	0.5	America/Santo_Domingo	tourism
+Kanluran	2882522	63371.42	768.65	8/18/2011	Abdel Manns	monument	30.2	Asia/Manila	technology
+Vardenik	3361463	89280.26	532.28	2/20/1742	Barton Prue	monument	31.4	Asia/Yerevan	technology
+Belize City	5699812	83780.89	529.88	9/17/1871	Brucie Pardal	museum	24.8	America/Belize	manufacturing
+Bunigeulis	7492739	99935.75	616.3	3/2/2009	Brig Gladstone	park	-16.1	Asia/Jakarta	tourism
+Cheremnoye	7287105	78645.19	526.18	8/21/1952	Roldan De la Eglise	museum	18.8	Asia/Omsk	technology
+Nanzhao	2960036	55820.27	863.75	3/17/1979	Cheryl Stockdale	museum	34.8	Asia/Shanghai	technology
+Aleg	2716359	36595.28	31.24	8/27/1727	Towney Stanhope	museum	2.7	Africa/Dakar	tourism
+Bebekan	4552312	39012.31	778.03	6/14/1848	Lucio Januszewski	museum	1.0	Asia/Jakarta	tourism
+Herceg-Novi	370984	43711.78	851.54	12/27/2013	Lise Scramage	park	23.5	Europe/Sarajevo	technology
+Horad Smalyavichy	1934117	39472.31	96.3	6/13/1740	Lorena Shand	museum	-9.8	Europe/Minsk	manufacturing
+Yangtan	7290857	24022.13	668.11	6/1/1959	Freedman Wrightham	museum	-14.8	Asia/Chongqing	tourism
+Denglong	3898941	98290.3	612.73	5/26/1737	Jarib Beardwood	monument	9.3	Asia/Shanghai	technology
+Garibaldi	2549608	61992.43	467.63	4/17/2017	Homer Basnall	monument	-0.3	America/Sao_Paulo	tourism
+Fukushima-shi	4660993	49140.24	710.43	4/26/1926	Chan McGrey	park	25.8	Asia/Tokyo	technology
+Klerksdorp	1026415	63838.83	620.32	11/10/1885	Norrie Songist	museum	20.3	Africa/Johannesburg	technology
+Khon Kaen	7296528	71726.97	897.92	2/12/1918	Lindie Marchington	museum	33.4	Asia/Bangkok	technology
+Kaffrine	2092792	29955.44	161.18	8/21/1998	Launce Petrushanko	museum	13.4	Africa/Dakar	technology
+Nanhe	3720929	82863.64	155.29	12/16/1783	Gardie Nicklen	park	-7.0	Asia/Chongqing	tourism
+Nkurenkuru	3540188	98573.25	374.2	5/2/1973	Ive Tregidga	monument	19.1	Africa/Windhoek	technology
+Krasnyy Profintern	4765286	56822.3	665.81	2/25/1944	Traci Coole	museum	-3.1	Europe/Moscow	manufacturing
+Bolinao	4166524	84665.88	579.33	10/21/1713	Armando Lankford	museum	23.4	Asia/Manila	technology
+Paciran	7984902	87761.48	701.78	11/28/1825	Sallyann Millett	monument	-17.7	Asia/Jakarta	technology
+Thành phố Bạc Liêu	2954702	33663.63	54.65	10/31/1701	Conrade Oleszkiewicz	monument	13.1	Asia/Ho_Chi_Minh	technology
+San Andres	6424162	41425.98	621.53	2/26/1911	Dannel Blaze	park	-7.2	Asia/Manila	technology
+Győr	6543825	51698.41	413.06	5/10/1716	Ted Attew	park	36.7	Europe/Budapest	tourism
+Belišće	1797520	50804.6	306.76	7/17/1760	Suzanne Vermer	museum	18.2	Europe/Zagreb	technology
+Chitré	9769176	99183.08	514.47	3/4/1848	Hamilton Dimmack	museum	1.0	America/Panama	tourism
+Puyuan	6565731	83738.3	628.16	1/7/1712	Carolus Coleiro	museum	12.6	Asia/Shanghai	manufacturing
+Los Mangos	715363	92978.69	898.92	5/4/1704	Darsey Steutly	museum	4.2	America/Mexico_City	manufacturing
+Guacamaya	9808389	91438.53	238.09	12/9/1885	Ermin Tarpey	park	-15.7	America/Tegucigalpa	manufacturing
+Město	5850101	87069.73	425.32	1/16/1775	Meriel Brissenden	park	35.5	Europe/Prague	technology
+Pancoran	7659269	27480.61	737.9	5/12/1995	Charissa Amoss	park	27.9	Asia/Jakarta	technology
+Gununglajang	381189	57339.17	596.87	12/22/1760	Willey Clear	park	22.2	Asia/Jakarta	manufacturing
+Union	2737926	31295.39	542.27	11/18/1750	Rora Battams	park	22.2	Asia/Manila	tourism
+Madison	5677964	63597.16	363.14	6/1/1728	Carolann Timmins	museum	26.5	America/Chicago	tourism
+Linköping	5609745	80017.67	559.85	4/10/1892	Bradley Macieja	monument	6.3	Europe/Stockholm	manufacturing
+Champerico	5937671	42687.75	171.74	10/23/1928	Shaylynn Hurley	monument	28.3	America/Guatemala	manufacturing
+Mosfilotí	6921633	27425.68	786.92	9/25/1704	Crawford Milsted	park	-14.2	Asia/Nicosia	technology
+Kostarea Satu	1672229	49311.26	208.79	1/26/1746	Katinka Bartlet	museum	13.1	Asia/Jakarta	technology
+Kamensk-Ural’skiy	2785181	47484.03	628.67	9/12/1872	Onofredo McInerney	museum	-5.9	Asia/Yekaterinburg	manufacturing
+Senhor da Serra	2995084	30734.9	610.69	12/7/1997	Heda Sevier	museum	39.6	Europe/Lisbon	manufacturing
+Peace River	2787063	84557.88	406.31	7/7/2015	Natty Borge	park	12.6	America/Edmonton	tourism
+Karney Shomron	4359023	88597.06	351.12	12/1/1872	Gaelan Meysham	museum	39.5	Asia/Hebron	technology
+Jiangkou	7706869	36653.29	236.33	12/2/2010	Gussie Knight	museum	18.2	Asia/Chongqing	technology
+Bugana	2541030	97888.8	232.51	4/29/1707	Joey Berfoot	museum	38.0	Africa/Lagos	tourism
+Xinfeng	2030136	30226.0	527.13	8/28/1843	Meggy Yandle	museum	27.6	Asia/Shanghai	technology
+Youxi	9476607	50286.31	77.27	6/6/1849	Jase Bibby	monument	37.8	Asia/Chongqing	tourism
+Panjir	1791512	23750.45	946.24	5/26/1858	Obadias Featherstonehaugh	park	18.7	Asia/Makassar	tourism
+Purral	3851848	95214.93	333.05	12/5/1901	Kellina Ruprecht	monument	-9.1	America/Costa_Rica	tourism
+Sokoto	5725975	43175.52	264.04	2/9/2004	Rawley Bradly	museum	2.2	Africa/Lagos	manufacturing
+Cimuncang	7739567	81631.99	855.21	3/28/1865	Salmon Godrich	monument	-10.3	Asia/Jakarta	technology
+Sekartaji	6482407	51973.11	811.19	1/18/1886	Felizio Peidro	park	31.3	Asia/Makassar	technology
+Janów	4344188	75468.57	335.09	5/17/1856	Dieter Igounet	monument	-6.4	Europe/Warsaw	manufacturing
+Barroso	2178637	69015.41	652.44	9/26/1898	Kristyn Bleby	museum	-10.2	America/Sao_Paulo	manufacturing
+Topolná	2565226	41044.79	586.36	10/16/1917	Caitrin Kerfoot	monument	2.3	Europe/Prague	tourism
+Krajan Satu	3625042	21516.18	502.8	6/14/1941	Reidar Branney	monument	30.2	Asia/Jakarta	technology
+Washington	3664264	22825.86	567.1	7/9/1738	Colan Tunniclisse	park	11.1	America/New_York	tourism
+Laocheng	8678776	68502.9	212.67	4/17/1709	Keely Oram	park	36.0	Asia/Chongqing	manufacturing
+El Quetzal	9223380	81921.75	588.66	7/19/1853	Craggy Haldin	monument	4.0	America/Guatemala	technology
+Ilopango	7111654	95039.24	729.93	4/24/1977	Calypso Perillo	museum	10.9	America/El_Salvador	tourism
+Le Havre	1362599	74433.54	447.91	10/24/1961	Hazlett Possel	monument	24.8	Europe/Paris	tourism
+Novoshakhtinskiy	647459	45572.86	784.47	8/12/1736	Vanni Edgworth	park	-11.4	Asia/Vladivostok	technology
+Somovo	2599303	21358.48	519.93	10/18/1895	Paloma Dimitriev	monument	-4.3	Europe/Moscow	technology
+Kostanay	7393697	43842.73	260.89	7/9/1939	Ronna Justun	monument	30.4	Asia/Qyzylorda	technology
+Oslo	4075677	32754.44	771.32	7/24/1951	Portie Tummons	museum	2.0	Europe/Oslo	tourism
+Yasnogorsk	3728962	89135.09	539.83	1/5/1931	Kristel Benge	park	23.1	Europe/Moscow	technology
+Cobre	1944691	89664.78	44.32	12/1/1824	Didi O'Cooney	monument	17.1	Europe/Lisbon	technology
+Gaosheng	8970976	32216.44	642.83	7/16/1749	Oby D'Aguanno	monument	-4.5	Asia/Chongqing	tourism
+Tangguhang	5376721	52028.03	620.38	9/22/1950	Fredrika McLaren	museum	-4.5	Asia/Makassar	tourism
+Beit Horon	2715878	54328.81	58.22	4/17/1813	Bale O'Hanlon	park	15.4	Asia/Hebron	tourism
+Shangqiu	9356713	41481.12	701.28	5/24/1865	Claudia Pilbeam	museum	13.9	Asia/Shanghai	tourism
+Buliwao	7426049	41279.48	308.34	7/10/1966	Agosto Splevin	monument	3.2	Asia/Manila	manufacturing
+Choya	8587971	31764.78	180.6	8/12/1764	Ulysses Lelievre	park	15.6	Asia/Omsk	manufacturing
+Zavety Il’icha	2347738	36111.55	266.73	8/9/1751	Quinton Josuweit	museum	18.7	Asia/Vladivostok	manufacturing
+Yanfolila	2509766	44384.98	657.34	4/18/1849	Rinaldo Chancelier	park	29.2	Africa/Bamako	technology
+Pangpang	5979608	96574.17	57.51	1/10/1805	Trisha Garred	park	35.6	Asia/Manila	tourism
+Abdurahmoni Jomí	1141252	57295.84	868.49	9/5/1917	Caryl Remirez	monument	25.6	Asia/Dushanbe	technology
+Hantai	5540669	58736.48	116.94	1/20/1776	Abramo Lauks	museum	32.8	Asia/Shanghai	technology
+Lagdo	368797	59493.96	64.65	7/31/1736	Haslett Spaice	monument	-18.3	Africa/Douala	manufacturing
+Haligue	6535064	40807.1	275.2	2/9/2020	Imojean Zack	park	19.8	Asia/Manila	technology
+Yaojiagou	4502835	61253.53	33.75	10/24/1877	Faunie Feldman	museum	-18.3	Asia/Chongqing	tourism
+Az Zarbah	6705611	79988.97	374.51	10/11/1757	Hugh Chatain	monument	-0.2	Asia/Damascus	manufacturing
+Uman’	7166663	65246.94	473.24	7/10/1709	Shayne Corah	monument	39.6	Europe/Kiev	manufacturing
+Pô	6505023	89638.27	454.2	12/22/1746	Vida Wardle	monument	-17.8	Africa/Ouagadougou	technology
+Wapno	7207669	35098.46	567.36	4/14/1777	Donall Dobrowski	monument	23.6	Europe/Warsaw	manufacturing
+El Cantón de San Pablo	3849354	79810.94	301.72	2/23/1935	Quinn Mullins	museum	38.5	America/Bogota	technology
+Sangkulirang	6623566	70438.47	599.53	9/12/1851	Langston Gilfillan	park	19.5	Asia/Makassar	tourism
+Caotan	5771434	72796.5	917.8	1/15/1903	Danny Gong	park	-1.0	Asia/Chongqing	technology
+Al Kiswah	900246	48131.39	20.99	6/9/1880	Ash Barthod	monument	10.7	Asia/Damascus	tourism
+Qazax	2545661	89104.97	331.28	2/3/1940	Delora Rennenbach	park	19.6	Asia/Baku	tourism
+Sibagat	8764318	81636.6	672.55	8/2/1919	Lulu Dilley	park	15.2	Asia/Manila	manufacturing
+Yuecheng	3274413	26224.43	135.76	8/10/1833	Zack Poncet	park	-14.2	Asia/Shanghai	tourism
+Lefortovo	9455461	52863.95	438.75	12/7/1735	Alisha Goodlud	park	-4.9	Europe/Moscow	technology
+Moneghetti	7469066	92823.59	393.03	1/8/1852	Dukie Winsper	park	-16.8	Europe/Monaco	technology
+Frankfurt am Main	4465883	46215.47	287.42	1/29/1983	Gracie Venn	museum	1.5	Europe/Berlin	tourism
+Walenrang	3841475	61967.89	104.95	8/16/1765	Pooh Monteaux	museum	13.1	Asia/Makassar	tourism
+Vila do Maio	3471079	22063.21	174.04	10/5/1935	Reba Holdey	monument	33.2	Atlantic/Cape_Verde	manufacturing
+Huantuo	9390676	74913.92	112.44	10/14/1779	Isa Towns	park	-3.0	Asia/Shanghai	technology
+Yangchun	4081100	27539.02	516.83	9/23/1711	Maggee Brignell	monument	21.9	Asia/Chongqing	tourism
+Tubo	8444010	44736.59	370.87	12/3/1857	Prudi Babington	museum	38.2	Asia/Manila	technology
+Al Maḩallah al Kubrá	2997666	89882.68	143.72	12/7/1791	Lanni Eley	monument	-8.2	Africa/Cairo	technology
+Borås	2892609	47302.88	599.04	3/30/1968	Boonie Hanretty	park	-6.6	Europe/Stockholm	technology
+Brusy	8470560	45897.74	996.43	11/17/1844	Thacher Schwandermann	museum	17.8	Europe/Warsaw	tourism
+Hostivice	1006761	67696.67	531.29	10/27/1956	Padget Di Dello	museum	-3.3	Europe/Prague	manufacturing
+Newport News	8871490	99183.34	876.47	5/5/1736	Tonya Morad	park	-2.6	America/New_York	technology
+Hiratsuka	8831033	20921.51	458.02	3/28/1966	Kellia Prestedge	museum	-13.0	Asia/Tokyo	manufacturing
+Cerca la Source	2293431	89533.96	466.5	4/20/1883	Guenna Brikner	park	1.4	America/Port-au-Prince	tourism
+Steinkjer	9005644	36681.71	462.85	9/13/1988	Blakeley Keelan	park	8.0	Europe/Oslo	technology
+Parlilitan	1582519	69462.7	450.43	1/7/1821	Karalynn Doldon	museum	39.3	Asia/Jakarta	technology
+Neya	4882810	57709.24	629.1	1/16/1961	Matti Dilworth	park	13.7	Europe/Moscow	manufacturing
+Carapicuíba	2917199	50390.02	37.61	10/9/1802	Demetris McRae	monument	11.9	America/Sao_Paulo	tourism
+Vidin	6537040	30496.58	387.21	10/19/1984	Christos Pinchin	park	-1.6	Europe/Sofia	tourism
+Oakland	5633162	99172.98	586.58	12/12/1978	Dennie Rupert	park	31.8	America/Los_Angeles	manufacturing
+Hanover	6403862	50554.07	548.58	7/28/1743	Teodoro McMurtyr	monument	14.8	America/Toronto	technology
+Kusŏng	3692719	45660.25	15.19	9/14/1777	Noreen Cruft	museum	36.3	Asia/Pyongyang	tourism
+Khueang Nai	8412331	87104.94	993.66	11/2/1825	Dodi Cosans	museum	-2.7	Asia/Bangkok	tourism
+Gračec	1763905	34891.94	46.45	5/14/1987	Fransisco Dabourne	museum	24.5	Europe/Zagreb	tourism
+Somerset East	7557102	32847.74	340.17	7/8/1932	Oliviero Twiggins	park	34.4	Africa/Johannesburg	manufacturing
+Skutskär	1954069	55838.07	435.77	8/4/1834	Casandra Issit	museum	-4.6	Europe/Stockholm	manufacturing
+Huo’erqi	8995844	20552.49	412.44	7/9/1800	Leonelle Witherby	monument	12.7	Asia/Harbin	technology
+Bicesse	2940125	30968.94	508.75	3/12/1937	Aldin Peagrim	museum	36.6	Europe/Lisbon	tourism
+Pingdong	6478658	26642.75	83.28	6/27/1704	Colby Fawlks	museum	20.4	Asia/Shanghai	tourism
+Ikar	597479	71820.17	374.38	11/29/1746	Mervin Dunnico	monument	27.8	Asia/Jakarta	tourism
+Jadowniki	2464171	80234.11	443.3	11/7/1839	Mozelle McCleary	monument	-2.0	Europe/Warsaw	tourism
+Bautista	8898236	76116.26	933.55	6/4/1926	Giacopo Eusden	monument	-10.2	Asia/Manila	manufacturing
+Ágios Pétros	4034933	69526.33	496.72	12/6/1900	Zita Corbitt	monument	-3.1	Europe/Athens	manufacturing
+Liping	7096972	89955.6	820.83	1/31/1878	Marcellina Ossipenko	monument	6.0	Asia/Chongqing	technology
+Itinga	9701336	39409.38	904.55	3/17/1996	Bette-ann Snowling	museum	-18.5	America/Sao_Paulo	manufacturing
+Morez	2940469	26373.81	903.08	12/28/1866	Dagmar Rylands	park	4.8	Europe/Zurich	technology
+Suzano	745544	26451.46	558.15	1/7/1926	Gian Lisle	museum	24.9	America/Sao_Paulo	technology
+Arevashogh	6688128	63392.67	53.24	9/19/2021	Emile Gebuhr	park	-18.5	Asia/Yerevan	manufacturing
+Lanlongkou	8845888	77460.29	410.29	11/15/2018	Stella Seller	museum	21.6	Asia/Chongqing	manufacturing
+Limenária	1513838	74996.58	911.65	6/18/1795	Kellby Driuzzi	museum	36.0	Europe/Athens	technology
+Zhavoronki	9260118	67116.73	680.19	4/3/1733	Hedwig Grote	park	-11.6	Europe/Moscow	tourism
+Serpukhov	1121399	24579.64	353.42	5/25/1985	Ned Herculson	museum	11.4	Europe/Moscow	tourism
+Paiçandu	8602923	92584.69	250.1	10/20/1849	Urbain Gepp	park	28.2	America/Sao_Paulo	tourism
+Jakubów	9541843	53961.18	965.25	5/11/1851	Nathanil Peschet	park	-19.9	Europe/Warsaw	tourism
+Koski Tl	7235316	30889.33	45.51	2/1/1911	Nanon Regnard	park	1.1	Europe/Helsinki	tourism
+Ogden	591731	88205.38	181.01	12/9/1986	Clarke Simonitto	park	5.0	America/Denver	tourism
+Caetité	7892747	74511.68	181.67	2/27/2001	Braden Cannaway	monument	22.0	America/Bahia	technology
+Diaowei	3228663	46752.54	422.56	10/9/1826	Juana Ahlin	monument	19.6	Asia/Chongqing	tourism
+Banaran	2739669	36963.69	577.74	11/10/1858	Kristan Boynton	monument	-2.0	Asia/Jakarta	manufacturing
+Los Tangos	8579884	71396.44	330.65	4/4/2020	Domini Laxtonne	park	-13.8	America/Guatemala	tourism
+Lucija	5136670	34677.21	915.18	12/21/1977	Sydelle Le Cornu	monument	16.2	Europe/Ljubljana	tourism
+Gantang	7005216	34482.46	958.58	5/24/1805	Callida Rodman	monument	-1.3	Asia/Shanghai	manufacturing
+Weiyuan	3613423	52914.91	694.49	11/19/1960	Haywood Calrow	park	-15.6	Asia/Harbin	manufacturing
+Puerto Padre	5514317	51320.88	40.97	7/13/1942	Stella Flower	monument	24.6	America/Havana	technology
+Shreveport	2094860	40370.64	682.45	5/14/1756	Danila Borborough	monument	15.5	America/Chicago	technology
+Syriam	3834433	99286.3	814.87	2/3/1790	Irina Grossman	park	2.2	Asia/Rangoon	technology
+Hezhi	9719661	98372.03	314.26	6/5/1761	Liv Bust	monument	34.1	Asia/Chongqing	manufacturing
+Nailung	611429	46675.98	703.29	5/8/1771	Griz Sturgess	museum	-16.3	Asia/Kolkata	manufacturing
+Mbaïki	6730732	78977.8	871.32	2/16/1989	Johnna Scardifield	museum	18.2	Africa/Bangui	technology
+Hanyuan	6980494	28910.23	201.29	10/2/1996	Haleigh Jacobi	monument	22.7	Asia/Chongqing	tourism
+Prokuplje	3242174	23180.33	91.99	3/31/1837	Shelby Paulet	museum	12.5	Europe/Belgrade	technology
+Gränna	2943077	85480.08	258.85	2/6/1880	Gabbey Sissot	park	-5.8	Europe/Stockholm	tourism
+Béziers	3828181	62236.61	673.8	7/5/1960	Delmore MacElharge	museum	-5.0	Europe/Paris	technology
+Keelung	6290148	83025.15	108.5	11/17/1942	Freeman Rigden	park	-4.5	Asia/Taipei	tourism
+Colima	681951	86435.87	22.33	4/12/1744	Ax Brixham	museum	-13.7	America/Costa_Rica	tourism
+Puputan	6194843	67286.48	305.21	10/12/1809	Lethia Kittredge	monument	15.2	Asia/Jakarta	tourism
+Guiping	9425490	41778.11	582.4	7/28/2009	Reggie Golden of Ireland	monument	5.1	Asia/Chongqing	tourism
+Las Palmas	4322819	36874.06	542.65	12/7/1760	Adelbert Grimwood	monument	-12.6	America/Mexico_City	manufacturing
+Cipicung	5565408	39839.01	967.17	3/14/1951	Janessa Paraman	park	5.5	Asia/Jakarta	manufacturing
+Krasnyye Barrikady	4204070	27513.31	626.69	2/3/1975	Torr Cheyney	park	-3.8	Europe/Volgograd	technology
+Kohila	8952235	99506.28	377.7	2/4/1845	Giralda Spender	monument	21.3	Europe/Tallinn	tourism
+Olímpia	3596095	58252.39	335.71	10/25/1712	Sidonnie Fernez	monument	-12.5	America/Sao_Paulo	manufacturing
+Costeira do Pirajubae	8301011	55911.02	33.94	11/8/1992	Beatrix Jaime	museum	-4.5	America/Sao_Paulo	manufacturing
+Oslo	4510444	94317.56	540.71	4/27/1891	Gillie Burrell	museum	-10.0	Europe/Oslo	manufacturing
+Itajaí	7605417	55037.93	347.63	12/14/1849	Suzie Kibbye	park	-1.8	America/Sao_Paulo	technology
+Colombes	2222413	73498.08	897.82	8/27/2013	Egon Meneyer	museum	16.9	Europe/Paris	technology
+Belém	5310592	72043.15	702.07	1/20/1722	Merrill Corbin	monument	20.9	America/Fortaleza	tourism
+Taling	3795966	44108.36	62.39	4/3/1849	Torie Hopfner	monument	25.1	Asia/Harbin	technology
+Povarovo	2118680	91838.24	786.36	12/2/2001	Franny Kupis	park	13.1	Europe/Moscow	tourism
+Bayanhoshuu	1191703	88889.46	648.16	2/28/1801	Dav Prandin	park	-9.0	Asia/Ulaanbaatar	technology
+Kousa	380532	23111.97	870.23	4/17/1960	Kirstyn Quartley	museum	25.1	Africa/Cairo	technology
+Batumi	1051773	78617.96	260.91	3/5/1944	Theda Dalgardno	museum	22.7	Asia/Tbilisi	manufacturing
+Butterworth	1594279	93883.44	836.29	10/12/1752	Yvette Pannaman	museum	-7.5	Asia/Kuala_Lumpur	technology
+Alindao	2131405	22230.45	772.18	4/18/1926	Guillaume Massimi	museum	-8.0	Africa/Bangui	tourism
+Memória	6228323	49416.61	956.07	1/22/1925	Gino Pawling	park	0.0	Europe/Lisbon	tourism
+Morales	6656064	67968.17	375.06	3/22/1954	Julianne Coneybeer	museum	31.1	America/Bogota	tourism
+Wolowiro	5951889	73661.54	341.24	2/8/1797	Rosemary Dumphry	park	-0.7	Asia/Makassar	tourism
+Sukatani	9236170	52630.27	25.4	5/31/1854	Lorry Quinevan	monument	25.3	Asia/Jakarta	manufacturing
+Qukës-Skënderbe	219369	99635.82	392.56	4/6/1975	Layney Gyrgorcewicx	monument	21.4	Europe/Skopje	tourism
+Chervyen’	908138	67078.48	183.07	8/1/1746	Kessia McMahon	monument	37.4	Europe/Minsk	tourism
+Muramatsu	2880578	43789.3	708.55	8/8/1840	Elnora Callendar	park	-11.0	Asia/Tokyo	manufacturing
+Xiaocun	3548615	39476.58	528.75	2/18/1996	Arther MacInherney	monument	15.6	Asia/Shanghai	technology
+Rakhiv	8599013	92951.87	121.52	7/27/1923	Morten Lilleycrop	park	4.8	Europe/Bucharest	tourism
+Tall aḑ Ḑamān	9273486	71131.3	705.72	3/16/2009	Barnebas Dewes	monument	-8.3	Asia/Damascus	tourism
+Huazhou	9055010	66257.23	507.67	8/4/1808	Yorgos Harte	park	23.5	Asia/Chongqing	tourism
+Baziqiao	9949648	83858.01	622.17	5/5/1970	Niki Olivas	monument	-14.3	Asia/Shanghai	manufacturing
+Mankoeng	3167725	29838.5	834.84	4/3/2016	Elset Gamil	park	15.1	Africa/Johannesburg	manufacturing
+Kapinango	1877328	22441.14	835.25	3/16/1970	Abby Dries	monument	6.0	Asia/Jakarta	manufacturing
+Latacunga	4276970	89837.04	579.43	9/19/1959	Carmel Tarren	park	35.3	America/Guayaquil	manufacturing
+Caldas da Rainha	5410092	46130.88	223.38	3/4/1970	Papagena Richarz	monument	2.6	Europe/Lisbon	tourism
+Adolfo Lopez Mateos	5782894	45080.41	494.11	7/24/1877	Nady Fullerd	museum	17.4	America/Mexico_City	manufacturing
+Manchester	9713029	86168.51	525.56	3/13/1967	Clio Zarfati	museum	-2.7	Europe/London	manufacturing
+Si Khoraphum	4284816	70639.39	72.47	6/7/1737	Denny Malcolm	museum	37.3	Asia/Bangkok	manufacturing
+Montpellier	9848742	29414.66	949.9	10/15/2011	Neely Gentle	monument	31.5	Europe/Paris	tourism
+Qagan Obo	2224056	64170.25	517.68	7/21/1808	Mavra Woodhams	monument	-14.9	Asia/Harbin	manufacturing
+Bouças	658605	86103.14	792.91	8/12/1873	Merilee Langshaw	monument	22.4	Europe/Lisbon	technology
+Kolo	1826288	47301.27	808.6	2/9/1894	Currey Straker	monument	12.0	Asia/Makassar	technology
+San Buenaventura	3504752	39878.34	694.49	10/25/1853	Geoffrey Lenz	monument	-6.1	America/Tegucigalpa	technology
+Mahébourg	9113160	52274.17	903.1	6/11/1866	Isacco Lenox	monument	37.8	Indian/Mauritius	manufacturing
+Araxá	7646205	89531.06	276.14	1/20/1860	Bess Doctor	monument	10.5	America/Sao_Paulo	manufacturing
+San Lorenzo de Esmeraldas	1150894	36784.76	868.86	9/1/1777	Ronalda Pardew	museum	-5.6	America/Guayaquil	technology
+Sujiatun	109325	33424.5	142.27	10/19/1962	Giorgio Karpman	museum	2.1	Asia/Harbin	technology
+Baikui	2706835	57584.42	691.1	8/17/2007	Gaultiero Eberlein	park	-6.7	Asia/Harbin	tourism
+Aiximan	6038266	29515.73	466.76	6/5/1916	Page O'Regan	monument	31.6	Asia/Kashgar	tourism
+Valsamáta	2817490	46526.12	402.1	5/20/1960	Saba Boich	park	32.4	Europe/Athens	technology
+Mombaça	29262	84933.42	475.28	5/17/2004	Mycah Kleanthous	monument	-4.0	America/Fortaleza	manufacturing
+Zhongshan	7412721	57403.69	151.28	4/21/1731	Casey Wincott	monument	7.0	Asia/Chongqing	tourism
+Zhangyang	5874492	52574.89	41.39	11/14/1915	Shantee Winwright	museum	-0.6	Asia/Shanghai	manufacturing
+Yiqian	4934244	42932.7	36.82	9/25/1878	Georgine Brimfield	museum	-10.7	Asia/Shanghai	tourism
+Quinta dos Frades	8653372	27330.7	94.32	1/6/1777	Ryun Membry	monument	24.5	Europe/Lisbon	manufacturing
+Balading	7319645	84747.83	287.78	5/15/1788	Anna Scase	park	18.8	Asia/Manila	technology
+Sipocot	2814673	26172.83	806.91	2/26/1832	Vivianna MacAskill	park	-4.3	Asia/Manila	tourism
+Yuguan	9800242	84647.44	541.56	10/10/1723	Dorelle Klimt	museum	-8.4	Asia/Chongqing	technology
+Pointe Michel	271086	93419.46	692.93	3/16/1841	Ardelis Kramer	park	-6.9	America/Dominica	tourism
+Dongkeng	9199050	29722.85	202.94	10/23/1845	Crista Ladyman	park	4.4	Asia/Shanghai	manufacturing
+Dapdapan	812190	58192.17	307.13	10/10/1731	Earvin Theobalds	monument	-16.9	Asia/Manila	technology
+San Juan de Manapiare	7480600	23561.42	336.36	9/16/1781	Sheryl Tupp	monument	-3.0	America/Caracas	manufacturing
+Piribebuy	6952418	90293.57	114.75	4/28/1722	Carmon Shinfield	monument	36.5	America/Asuncion	tourism
+Istres	1590667	97860.66	160.92	9/15/1782	Tab Haylands	monument	-9.8	Europe/Paris	manufacturing
+Pelasgía	1266365	22445.88	124.56	10/20/1736	Adolph Peet	monument	-19.9	Europe/Athens	manufacturing
+San Antonio	418169	67319.84	742.26	6/6/1778	Nelle Labone	park	12.9	America/Tegucigalpa	tourism
+Banyuresmi	6971507	83805.24	916.12	12/24/1719	Larina Moodycliffe	museum	31.5	Asia/Jakarta	tourism
+Río Alejandro	4674979	54337.14	741.49	4/13/1812	Cecelia Blockey	monument	-1.1	America/Panama	tourism
+Growong Lor	6353466	97655.56	785.99	8/4/1830	Lucien Skyme	monument	1.6	Asia/Jakarta	technology
+Maracanaú	1288778	42711.06	677.47	3/17/1728	Billy MacGorley	park	6.5	America/Fortaleza	manufacturing
+Tiền Hải	7451114	33086.69	148.36	8/3/1896	Cinda Cornuau	monument	-18.1	Asia/Ho_Chi_Minh	tourism
+Pamplona	487866	69513.54	60.58	7/23/1981	Rana Picker	park	-9.6	America/Bogota	tourism
+Santa Teresa	2157308	70332.77	434.52	11/26/1761	Roxi Sineath	park	38.1	Asia/Manila	tourism
+Oleszyce	2941800	37943.9	682.53	4/17/1762	Ianthe Libbis	museum	20.6	Europe/Warsaw	technology
+Xincheng	9365516	51876.49	608.23	10/3/1837	Aindrea Wilber	museum	1.0	Asia/Chongqing	tourism
+Redcliff	2719723	90979.49	883.85	10/7/1905	Charline Hassent	park	33.2	Africa/Harare	technology
+Carot	452744	61174.22	449.85	1/15/1737	Jerrold Nicholl	monument	-12.3	Asia/Manila	technology
+Magumeri	4980658	84846.71	300.29	11/24/1861	Cello Simoncello	museum	39.4	Africa/Lagos	tourism
+MacArthur	5978269	27323.88	491.95	6/6/1817	Zachariah Chaloner	museum	6.2	Asia/Manila	manufacturing
+Trollhättan	5054710	82503.2	293.21	9/18/1894	Neysa Rousby	monument	-17.7	Europe/Stockholm	technology
+Santai	4341063	21567.74	385.75	7/17/2011	Ruy Stansall	museum	-7.0	Asia/Urumqi	tourism
+Agassiz	4534202	48265.52	112.09	4/29/1709	Zacherie Bendan	monument	37.0	America/Vancouver	technology
+Tohautu	4027717	73675.9	241.14	6/17/1794	Salomone Borghese	monument	3.6	Pacific/Tahiti	tourism
+Sanjie	6283942	46156.46	815.09	6/1/1725	Winfield Messier	museum	4.9	Asia/Shanghai	manufacturing
+Criação Velha	6438821	77468.85	524.79	9/29/1961	Scotti Upchurch	museum	-7.1	Africa/Accra	tourism
+Krajan Selatan	677149	56481.92	835.83	12/27/1864	Marion Healks	park	-7.6	Asia/Makassar	tourism
+Bahāwalnagar	6614929	90837.5	796.27	7/1/1739	Debbie Thewys	park	20.0	Asia/Karachi	tourism
+Gongming	5059699	64100.79	528.05	12/26/1750	Olin Rebbeck	park	5.7	Asia/Chongqing	technology
+Xieba	5078519	52625.23	140.7	5/23/1975	Jarrett Chappelow	park	9.5	Asia/Chongqing	tourism
+Kasembon	2511592	99372.49	435.34	11/13/1985	Toby Prover	museum	-18.9	Asia/Jakarta	technology
+São Mateus	5964633	64083.64	286.23	10/26/1954	Kerk Dunlap	monument	25.7	Africa/Accra	manufacturing
+Ciusul	4497093	59746.97	996.41	8/17/1997	Briant Varnham	museum	-8.5	Asia/Jakarta	technology
+Andahuaylas	729594	81768.81	172.63	5/13/1760	Baxy Philipsson	monument	-15.2	America/Lima	manufacturing
+Safi	746112	35853.07	898.85	8/15/1810	Marsh Petteford	museum	-3.4	Asia/Amman	technology
+Rizal	2535263	47252.08	635.73	9/10/1999	Esmaria Saynor	park	-1.4	Asia/Manila	tourism
+Várzea Grande	5958769	50579.47	998.2	6/2/1764	Jojo Dunton	monument	37.3	America/Cuiaba	manufacturing
+Aramayuan	6306619	55694.6	145.23	8/13/1747	Marleah Dysart	park	-17.9	Asia/Manila	manufacturing
+Xinkai	7688008	76305.07	377.61	3/20/1877	Ania Shuttlewood	park	38.2	Asia/Shanghai	tourism
+Mawlaik	396887	42842.3	433.76	3/15/1906	Malinde Sellen	park	31.1	Asia/Rangoon	manufacturing
+Spiczyn	4040799	42083.05	952.7	12/21/1870	Peggi Bathurst	park	-17.5	Europe/Warsaw	tourism
+Carmen	4491563	98693.26	55.58	10/6/1777	Misti Maldin	monument	-0.9	Asia/Manila	tourism
+Normandin	7124404	83325.85	412.34	3/22/1950	Emlyn Brunini	museum	38.4	America/Montreal	tourism
+Fale old settlement	9491669	91508.87	664.67	9/12/1767	Sadye Setch	monument	8.6	Pacific/Apia	tourism
+Alajuelita	1450882	91599.94	295.34	10/8/1789	Avictor Rookesby	monument	4.2	America/Costa_Rica	tourism
+Pontevedra	474686	63536.32	646.93	2/9/1991	Sylvan de Voiels	monument	11.4	Europe/Madrid	technology
+Miatli	2772727	86265.97	731.74	3/12/1987	Eward Hiddy	monument	4.7	Europe/Moscow	tourism
+Hollola	8565958	23008.4	752.91	3/29/1850	Alicia Farris	museum	8.6	Europe/Helsinki	tourism
+eMbalenhle	9509313	51844.83	457.27	7/7/1749	Hephzibah Hurren	park	17.0	Africa/Johannesburg	technology
+Iktābah	986214	73131.77	822.37	5/17/1822	Frannie Mellhuish	museum	-4.1	Asia/Hebron	tourism
+Teresina	326688	68632.53	983.91	3/7/1730	Devy Deem	park	9.8	America/Fortaleza	tourism
+Jiangzao	4639151	82307.79	28.28	7/3/1961	Shel Leamon	park	5.0	Asia/Shanghai	manufacturing
+Vidoši	7432043	43245.19	852.79	2/12/1910	Kelci Brechin	museum	19.6	Europe/Sarajevo	technology
+Houston	7731059	56423.59	173.82	2/10/1955	Derril Lillow	museum	18.5	America/Chicago	tourism
+Pasar	1995020	24536.04	657.53	4/28/1937	Rahel Gotobed	monument	17.6	Asia/Jakarta	manufacturing
+Si Racha	1257868	98054.11	874.41	7/24/1821	Andrey O'Shiel	monument	36.0	Asia/Bangkok	manufacturing
+Diwopu	8536548	27853.54	639.01	4/24/1780	Bernita Kinsett	museum	14.4	Asia/Urumqi	technology
+Suay	9426880	34991.22	709.12	6/1/2021	Oberon Harmant	museum	-18.7	Asia/Manila	manufacturing
+Lazaro Cardenas	8042150	36088.61	766.2	7/8/1760	Brice Olligan	park	24.4	America/Mexico_City	manufacturing
+Suban Jeriji	4652203	83799.35	728.85	1/20/1719	Dallas D'Andrea	museum	-6.8	Asia/Jakarta	technology
+Āwash	6357434	26027.21	144.56	6/15/1783	Alwin Saull	monument	-13.4	Africa/Addis_Ababa	tourism
+Bergen	5106715	50073.09	198.2	5/21/1978	Chad Towe	monument	-9.2	Europe/Oslo	tourism
+Cuenca	2160336	70560.26	562.8	1/15/1945	Esme Billion	museum	4.0	America/Guayaquil	manufacturing
+Vila Franca das Naves	4880058	90016.89	875.47	2/22/1946	Vally Dietz	museum	-3.0	Europe/Lisbon	technology
+Foso	2798265	60825.71	345.2	12/26/1704	Billie Tincknell	park	39.1	Africa/Accra	tourism
+Gelsenkirchen	9585238	78365.09	889.21	4/13/1805	Corabella Dyter	museum	-6.7	Europe/Berlin	manufacturing
+Kajaani	1711140	99083.1	772.4	7/7/1981	Neddy Breakwell	museum	-1.9	Europe/Helsinki	tourism
+Sukadami	8748979	27838.25	948.69	1/24/1710	Averill McGaughie	monument	34.8	Asia/Jakarta	manufacturing
+Qingshan	4609719	99455.9	479.12	3/31/1838	Malchy Vine	museum	5.9	Asia/Harbin	tourism
+Katsuura	8469315	70602.93	627.48	3/29/1780	Durand Cornil	museum	36.7	Asia/Tokyo	manufacturing
+Le Havre	1511168	63503.13	337.26	8/17/1811	Clarance Vaughan	park	14.0	Europe/Paris	tourism
+Paris 13	6894673	78395.88	922.1	6/11/2017	Herbie Romeril	park	-18.6	Europe/Paris	technology
+Luzern	6964565	70238.72	94.48	7/16/1794	Harmonia Tomei	park	35.4	Europe/Zurich	manufacturing
+Rahama	7517173	96062.01	99.72	1/21/1746	Stewart Cosins	park	-19.6	Africa/Lagos	manufacturing
+Sikur	9932096	72358.93	399.71	8/15/2016	Arlee Habbon	museum	39.3	Asia/Makassar	tourism
+Nong Chik	2909564	37527.04	740.49	9/16/2012	Kelwin Crimp	monument	2.4	Asia/Bangkok	technology
+Nevers	2386631	74136.37	463.32	2/20/1800	Simone Eglinton	monument	-16.1	Europe/Paris	tourism
+Düsseldorf	6395622	60076.33	243.04	12/9/1745	Pedro Santhouse	monument	6.9	Europe/Berlin	tourism
+Doña Remedios Trinidad	9876398	41567.57	125.96	11/24/1784	Worthy Murray	monument	16.9	Asia/Manila	tourism
+‘Anātā	6750357	95748.37	958.65	4/24/1987	Bridgette Lidster	monument	0.1	Asia/Jerusalem	technology
+Miānwāli	9088430	38616.05	625.71	7/20/1863	Jocelyn Chazette	museum	-1.4	Asia/Karachi	technology
+Miguel Hidalgo	3733735	47701.86	992.29	12/24/1788	Hakim Chisholm	museum	17.9	America/Mexico_City	manufacturing
+Lembung Tengah	854846	77528.04	949.12	10/10/1874	Isak Jefferd	museum	38.3	Asia/Jakarta	technology
+Petrozavodsk	7067866	90983.18	699.15	7/2/1915	Huey Middell	park	-9.6	Europe/Moscow	manufacturing
+Lincoln	250909	22956.52	167.9	9/17/1789	Aretha Stancer	park	-17.3	America/Chicago	technology
+Kruševica	9629301	58977.61	670.37	2/28/1990	Whit Colliber	monument	36.3	Europe/Sarajevo	manufacturing
+Vinhais	8917426	21827.88	716.44	8/5/2003	Lizbeth Inglis	park	-8.7	Europe/Lisbon	manufacturing
+Cikendi	2770188	32377.92	422.38	1/30/1992	Maurie Enevoldsen	museum	-11.8	Asia/Jakarta	manufacturing
+Tonosí	5794849	68057.73	452.32	1/3/1926	Lucais Ashlee	museum	-7.5	America/Panama	technology
+Shumikha	1589179	35481.6	342.65	9/20/1925	Joyous D'Adamo	park	11.8	Asia/Yekaterinburg	manufacturing
+Taiping	625779	59045.15	976.32	11/25/1857	Joelle Daly	park	23.7	Asia/Chongqing	technology
+Kota Kinabalu	5584451	40450.15	696.0	6/3/1877	Elyssa Ivain	museum	33.2	Asia/Kuching	technology
+Dagkar	6039550	25646.59	959.96	1/12/1987	Base Strass	monument	-14.4	Asia/Chongqing	tourism
+Wādī as Sīr	7052514	53556.11	309.87	12/8/1867	Mannie Grob	museum	16.6	Asia/Amman	tourism
+Salcedo	6865018	31995.73	284.08	6/10/1931	Eleanora Grzegorzewski	monument	12.5	Asia/Manila	manufacturing
+Rajsko	3882084	87789.47	725.83	8/15/1960	Marcia Cumpsty	museum	25.0	Europe/Warsaw	technology
+Colombes	2341387	95379.87	772.05	10/7/1840	Jimmie Gate	monument	1.0	Europe/Paris	technology
+Pedra Branca	5459899	96468.22	54.91	2/15/1700	Denny Marran	park	-15.3	America/Fortaleza	tourism
+Parigi	2621068	51067.26	468.8	9/21/1824	Lisle Clynter	monument	23.3	Asia/Jakarta	tourism
+Nepeña	8052411	84560.01	472.64	4/6/1994	Karlan Giral	monument	9.9	America/Lima	manufacturing
+Alor Setar	2499175	91776.4	454.85	6/11/1755	Malorie Ekless	museum	7.9	Asia/Kuala_Lumpur	manufacturing
+Vilar do Pinheiro	2751400	60494.44	20.79	8/29/1937	Billie Worledge	monument	38.6	Europe/Lisbon	manufacturing
+Maco	7930256	79109.28	272.69	10/22/1760	Mirelle Gledhill	monument	32.2	Asia/Manila	technology
+Volodars’k-Volyns’kyy	663504	80734.07	885.95	8/29/1896	Kit Velareal	park	-2.9	Europe/Kiev	manufacturing
+Göteborg	6301291	98922.97	216.6	6/28/1893	Kial Scadden	park	39.9	Europe/Stockholm	manufacturing
+Cuihuangkou	6982852	52709.82	539.37	3/29/1806	Athene Padula	park	0.8	Asia/Shanghai	tourism
+Polo	8181695	50792.2	756.94	5/3/1736	Antonio Soans	park	10.4	Asia/Makassar	technology
+Arras	4389158	53909.26	943.3	3/17/1766	Berne Regitz	park	-6.5	Europe/Paris	tourism
+Egindiköl	27776	45534.3	684.54	7/14/1895	Annamaria Penke	museum	-19.6	Asia/Almaty	technology
+Debrecen	7447615	26154.5	240.42	5/13/1858	Ginevra Mitchall	park	25.0	Europe/Budapest	manufacturing
+Nerchinsk	8258039	37541.25	247.35	2/13/2004	Trula Measures	monument	27.4	Asia/Yakutsk	tourism
+Dalongzhan	8951556	72901.68	455.51	7/22/1899	Seth Scandrett	monument	13.4	Asia/Shanghai	manufacturing
+Nipawin	9075202	28281.04	922.11	8/4/1843	Sib Gethen	park	0.7	America/Regina	technology
+Qijing	6544994	96975.21	753.69	5/27/1775	Tarrance Sommerled	museum	-1.2	Asia/Chongqing	manufacturing
+Tha Luang	8259451	38019.97	484.23	3/13/1821	Ann-marie Fielder	museum	19.8	Asia/Bangkok	technology
+Balong Wetan	2341089	70394.48	525.32	1/23/1752	Ben Lavall	monument	28.5	Asia/Jakarta	technology
+Balitoc	1613579	94264.61	898.87	12/1/1703	Fernanda Steffan	park	-18.1	Asia/Manila	technology
+Beslan	7399109	37009.84	372.58	8/25/1727	Aurel Merigon	monument	14.7	Europe/Moscow	tourism
+Åhus	5190528	21563.01	411.85	7/29/1729	Ronnie Brennand	park	-5.2	Europe/Stockholm	technology
+Phu Loc	9429125	20925.21	694.99	8/4/1740	Karlens Ingerson	monument	32.0	Asia/Ho_Chi_Minh	manufacturing
+Shangani	4653877	49627.8	61.75	2/5/1803	Mickie Stag	museum	6.4	Africa/Harare	technology
+Huilong	1023969	33489.57	289.93	8/4/1811	Lisetta Rosenkrantz	park	36.3	Asia/Shanghai	technology
+Ourozinho	4552746	43430.67	994.36	2/11/1855	Melina Slora	park	-9.6	Europe/Lisbon	manufacturing
+Sidi Yahya Ou Saad	4667839	36353.25	320.77	9/26/1705	Baxter Allin	park	33.3	Africa/Casablanca	technology
+Pointe Michel	4625799	33914.05	935.04	8/9/1749	Flory Theyer	museum	-18.6	America/Dominica	manufacturing
+Hofors	8983027	62263.48	769.0	2/6/1962	Nil Ubee	monument	12.7	Europe/Stockholm	technology
+Chanhe	3788569	40191.19	690.55	4/4/1975	Neel MacBey	museum	-6.5	Asia/Chongqing	manufacturing
+Amargosa	7033747	50883.18	667.88	9/13/1856	Carlita Buse	museum	-1.9	America/Bahia	tourism
+Santa Marcela	7944090	57030.89	270.99	12/20/1944	Jojo Tilbrook	museum	-17.1	Asia/Manila	tourism
+Delft	2109667	57572.84	670.36	10/20/1825	Stephi Edinburough	museum	22.1	Europe/Amsterdam	technology
+Semikarakorsk	5552497	29174.81	880.47	9/19/1875	Robinett Bruhn	park	10.6	Europe/Moscow	tourism
+Saripin	416212	42670.09	905.31	12/22/1807	Alan Phillipp	monument	16.8	Asia/Jakarta	manufacturing
+Tupaciguara	8111139	46425.09	326.24	8/18/2010	Allyce Tookill	museum	11.6	America/Sao_Paulo	tourism
+Laprida	4280912	69869.34	38.43	4/18/1767	Caesar Hames	park	36.7	America/Argentina/Buenos_Aires	technology
+Coihaique	3040232	24844.87	807.67	5/9/1948	Carolus Hinnerk	museum	15.6	America/Santiago	manufacturing
+Enjiang	7370391	72930.02	682.6	7/17/1759	Drake Dusting	park	-4.4	Asia/Shanghai	tourism
+Zhili	1143283	81263.66	168.58	12/27/1914	Clarie Sisselot	park	-1.9	Asia/Shanghai	manufacturing
+Warungbanten	4383525	59197.56	82.83	4/24/1753	Gabriellia Grieg	museum	-3.8	Asia/Jakarta	technology
+Tsurib	3519884	28985.05	626.83	4/10/1926	Daniel Lonsdale	park	28.6	Asia/Baku	technology
+Chuchkovo	5401921	83506.92	373.16	5/15/1803	Rockwell Holsall	park	-12.8	Europe/Moscow	tourism
+Weiyuan	9899974	23391.19	470.57	7/24/1947	Rorie Rotham	museum	-12.5	Asia/Harbin	tourism
+Kraczkowa	2578322	97510.43	829.38	12/27/1809	Gal Matasov	monument	39.6	Europe/Warsaw	tourism
+Shigou	6015427	53545.61	974.3	10/3/1718	Kristin Lorenzin	monument	-4.7	Asia/Chongqing	manufacturing
+Al Jumaylīyah	7420889	62978.23	171.71	6/26/2000	Norbert Bollans	museum	10.1	Asia/Qatar	manufacturing
+Tzaneen	9307559	57056.66	318.34	2/21/1857	Niko Hammerton	museum	-0.1	Africa/Johannesburg	technology
+Lipnik	2974403	28613.53	903.29	10/7/1846	Reuben Marquet	monument	-7.9	Europe/Warsaw	technology
+Dunhua	3997811	47166.18	803.02	10/30/1742	Violet Fancet	monument	0.3	Asia/Harbin	tourism
+Lüfeng	9053122	50658.02	955.35	10/11/1842	Rodrick Schust	park	10.0	Asia/Chongqing	technology
+Sankera	4188344	68792.63	977.03	3/9/1886	Bartolemo Kilby	monument	7.2	Africa/Lagos	tourism
+Langkou	2981310	30902.03	936.05	2/3/1772	Shaw Brody	monument	39.2	Asia/Shanghai	tourism
+Tangxi	3632578	53866.81	624.59	3/22/1832	Dennie Steuart	museum	-15.0	Asia/Shanghai	tourism
+Gēdo	8580831	22765.04	337.43	12/3/1724	Gilly Ainslie	monument	-4.9	Africa/Addis_Ababa	technology
+Maji	5382867	78789.31	167.08	4/4/1775	Marianna Peskin	museum	-17.3	Asia/Chongqing	technology
+Oepula	7757384	39209.39	290.64	8/6/1939	Stephani Guslon	monument	29.4	Asia/Makassar	manufacturing
+Kinloch	9436365	20630.27	193.8	6/22/1912	Antoni Lush	monument	35.5	Europe/London	manufacturing
+Quibdó	3743603	48097.24	880.89	8/16/1717	Trixi Cumes	museum	26.6	America/Bogota	technology
+Mossoró	985636	31299.41	507.23	9/5/1877	Rowland McCotter	monument	-8.1	America/Fortaleza	technology
+Khlung	7283669	66428.47	255.82	10/21/1919	Clarita McCanny	monument	12.2	Asia/Bangkok	manufacturing
+Marseille	2843678	56932.22	596.56	3/26/1867	Lynne Pert	park	-4.2	Europe/Paris	tourism
+Sangkalputung	4062367	42673.1	957.23	6/11/1986	Lynett Strudwick	museum	1.4	Asia/Jakarta	manufacturing
+Paris 16	6355605	48204.79	781.98	11/29/2020	Kattie Wille	monument	34.8	Europe/Paris	technology
+Bungereng	2898603	65495.04	848.99	2/27/1838	Goddard Eldon	monument	14.4	Asia/Jakarta	technology
+Nanshe	682240	35775.55	377.39	3/20/1727	Somerset Loftin	monument	7.0	Asia/Chongqing	manufacturing
+Bilozerka	5786656	91480.5	880.37	3/8/1844	Melisenda Fretson	museum	-1.6	Europe/Simferopol	tourism
+Tianzhen	3667705	23774.81	707.22	11/1/2002	Peterus Halso	museum	12.4	Asia/Shanghai	technology
+Hengli	6504744	49563.05	900.66	10/30/1931	Fabio Flinn	museum	0.3	Asia/Chongqing	manufacturing
+Mascouche	6217913	44859.66	551.4	6/10/1928	Shauna Chestle	park	4.8	America/Montreal	technology
+Jaguaribe	6114251	62270.53	764.92	3/28/2015	Dwain Pablo	museum	-16.9	America/Fortaleza	technology
+Yukuhashi	7362581	69228.84	574.4	3/25/1906	Cynthea Brydie	park	-14.3	Asia/Tokyo	tourism
+Sollebrunn	2398292	66671.33	885.99	4/14/1718	Federica Partlett	park	0.2	Europe/Stockholm	tourism
+Laoxialu	5410662	72157.6	705.1	1/11/1886	Lura Loxton	museum	28.3	Asia/Shanghai	tourism
+Hagerstown	1716385	44458.85	892.1	10/7/1968	Lynda McGurk	museum	11.4	America/New_York	tourism
+Daja Lorong	7783509	48491.83	815.65	9/13/1870	Pate MacAlpin	museum	39.7	Asia/Jakarta	manufacturing
+K’olīto	3441827	77170.61	48.1	11/11/1790	Martica Mulgrew	monument	19.6	Africa/Addis_Ababa	tourism
+Mizusawa	5872769	37079.38	289.41	4/5/1718	Edlin Took	museum	-3.8	Asia/Tokyo	technology
+Yuwan	4176229	21534.87	764.66	2/14/1840	Dore Gianasi	park	0.9	Asia/Chongqing	tourism
+Jiuxian	4560733	44943.27	292.88	2/8/1951	Shirline Karolyi	museum	-6.8	Asia/Chongqing	tourism
+Hostavice	4421286	94191.63	886.79	4/17/1804	Linzy McClean	museum	14.1	Europe/Prague	technology
+Bagnères-de-Bigorre	7046784	55989.61	652.62	6/24/2002	Kaile Tolomelli	museum	-11.9	Europe/Paris	manufacturing
+Higuerote	2624944	67615.16	774.68	6/8/1761	Neils Shemmans	museum	23.2	America/Caracas	manufacturing
+El Progreso	5753905	90239.6	774.89	1/15/1903	Vernen Jarley	park	5.8	America/Panama	tourism
+Fuxin	1258080	99945.38	353.7	5/25/1850	Haven Brahmer	monument	-7.0	Asia/Harbin	manufacturing
+Wonokerso	6225856	93928.57	882.97	5/6/1964	Harbert Manhood	park	18.0	Asia/Jakarta	tourism
+Belčišta	7861401	32183.12	869.5	4/26/1768	Nertie Wyllt	park	-6.4	Europe/Skopje	manufacturing
+Tayasan	8010625	34578.92	76.27	8/19/1950	Barr Grisenthwaite	park	15.0	Asia/Manila	manufacturing
+Huixian Chengguanzhen	9511089	61240.95	414.03	11/5/2002	Ludovico Ambrogi	park	-1.3	Asia/Chongqing	tourism
+Gostimë	4337820	57592.44	197.61	1/8/1848	Barri Macy	monument	1.9	Europe/Tirane	technology
+San Julian	8102404	75778.64	310.71	12/3/1746	Karisa Showte	monument	24.1	America/La_Paz	tourism
+Xiangfu	5440096	68452.8	364.42	2/5/1979	Aube Ruf	monument	-11.5	Asia/Shanghai	tourism
+Bestöbe	4065476	93710.26	133.6	7/4/1700	Reeta Polgreen	museum	27.1	Asia/Almaty	technology
+Bolikhan	472533	59178.46	871.0	1/1/1993	Elizabet Delouch	park	4.5	Asia/Vientiane	tourism
+Mora	9510308	38842.68	14.57	4/5/1947	Ophelie Prewett	park	-13.4	Europe/Stockholm	manufacturing
+Lenger	3265607	67228.61	160.01	7/19/1753	Shantee Thorowgood	park	0.7	Asia/Almaty	technology
+Hòa Bình	6808511	87401.47	101.19	8/14/1807	Alford Figliovanni	museum	8.8	Asia/Vientiane	technology
+Chaiyaphum	5839021	94077.48	810.15	6/5/1730	Brigitte Eldrett	monument	-5.8	Asia/Bangkok	manufacturing
+Cikadondongdesa	187678	65308.47	195.45	10/5/1937	Olva Gath	monument	16.4	Asia/Jakarta	tourism
+Dalupirip	2420646	46200.5	752.82	12/26/1886	Lucilia Mattiacci	monument	9.3	Asia/Manila	manufacturing
+Habartov	5882136	83324.31	938.8	11/30/1938	Janine Tuer	park	25.7	Europe/Prague	tourism
+Dongfeng	9266940	60033.03	849.82	9/3/1760	Joshia Timmens	museum	28.1	Asia/Chongqing	tourism
+Colonias Unidas	4206156	89527.06	843.98	2/20/1872	Wells Summerell	park	-4.7	America/Argentina/Cordoba	tourism
+Yuanshanzi	13865	23843.35	634.41	4/2/1879	Gwyneth Kingman	park	22.2	Asia/Harbin	manufacturing
+Huanggong	6982629	32869.35	679.24	2/16/1798	Calv Acosta	museum	-0.3	Asia/Urumqi	technology
+Campo	1977715	46517.41	15.99	6/22/1942	Amata Woodstock	monument	18.8	Europe/Lisbon	technology
+Qingtong	9650643	51618.01	487.85	5/26/1887	Jamey Mallord	monument	34.8	Asia/Shanghai	tourism
+Al Qubbah	4259410	51276.15	781.09	5/4/1817	Ikey Petkovic	park	12.7	Africa/Tripoli	manufacturing
+Tembol	1982018	60497.17	524.41	9/25/1852	Mae Assiter	museum	19.2	Asia/Jakarta	technology
+Gulao	6571524	30488.37	174.84	12/29/1870	Sancho Callender	museum	6.9	Asia/Chongqing	tourism
+Barr	9578018	67443.75	736.17	4/8/1890	Maynord Morse	monument	-19.4	Europe/Paris	manufacturing
+Bukonyo	3096707	84525.51	754.07	3/12/1825	Martie Wannan	monument	-13.0	Africa/Dar_es_Salaam	tourism
+Clorinda	6618876	81341.93	754.77	5/8/2001	Gallard Wildt	museum	-2.2	America/Asuncion	manufacturing
+Antimácheia	4028439	44492.44	313.99	6/19/1726	Gavin Sawle	museum	-12.9	Europe/Athens	tourism
+Los Pinos	3458833	65684.7	551.09	12/6/1946	Gloriana Lavers	monument	30.5	America/Mexico_City	manufacturing
+Bordeaux	5877751	88554.22	150.03	7/6/1797	Rozanna Thoma	museum	2.2	Europe/Paris	technology
+Dongtucheng	7783332	45412.75	132.79	7/9/1757	Alfie Mantripp	park	-11.4	Asia/Chongqing	manufacturing
+Tembol	2609717	85372.81	321.96	6/8/1713	Jessica Davidzon	museum	-19.2	Asia/Jakarta	tourism
+Barqueiro	6198025	51512.64	689.77	2/26/1894	Florri Balint	museum	-16.2	Europe/Lisbon	manufacturing
+Hebu	9871894	42873.56	353.58	6/24/1930	Barth Planks	monument	-19.0	Asia/Shanghai	tourism
+Åmål	2013249	23258.96	403.77	3/6/1805	Chuck Clemmow	monument	23.4	Europe/Stockholm	manufacturing
+Ruo	9610821	52988.54	472.74	6/28/1706	Roarke Crabb	monument	-1.9	Pacific/Pohnpei	technology
+Minjian	4698707	51351.75	282.41	11/23/1838	Kristyn Harrad	park	-12.1	Asia/Chongqing	tourism
+Thorpe	7376487	27791.12	347.72	3/9/1951	Annemarie Dixcey	park	1.2	Europe/London	manufacturing
+Wangcun	8459364	68225.99	220.45	2/22/1941	Normand Ughetti	park	31.4	Asia/Shanghai	manufacturing
+Camasca	8423994	25611.62	623.1	11/7/1807	Scott Mirrlees	museum	6.3	America/El_Salvador	tourism
+Novais	3392084	78238.52	974.64	8/20/1722	Alphonso Elfe	park	-7.4	Europe/Lisbon	manufacturing
+Neglasari	4738442	36212.7	488.52	7/8/1973	Phaidra Chantrell	museum	9.3	Asia/Jakarta	manufacturing
+Çobansığnaq	3405573	76417.93	611.8	3/7/2007	Bridget Gauchier	park	22.9	Asia/Baku	tourism
+Ocucaje	9060352	44593.5	248.94	7/22/1776	Donalt Cypler	park	14.5	America/Lima	technology
+Gaosheng	7203898	38269.22	648.71	10/6/1990	Faber Senior	museum	33.3	Asia/Chongqing	technology
+Vlycháda	4315061	81945.0	131.85	8/27/1824	Rosabella Romney	monument	11.2	Europe/Athens	tourism
+Ninove	8166028	72075.14	160.59	7/4/1820	Sansone Dabrowski	park	4.5	Europe/Brussels	manufacturing
+San Cristóbal Totonicapán	7859485	94301.62	353.49	11/21/1718	Carol-jean Hunstone	monument	11.7	America/Guatemala	manufacturing
+El Paso	7497417	50239.23	786.44	1/25/1978	Vale Parell	monument	13.3	America/Denver	technology
+Kuala Lumpur	2303165	72444.08	41.47	4/29/1752	Thom Leadbitter	museum	-3.8	Asia/Kuala_Lumpur	tourism
+Papër	9683610	93287.79	869.31	5/6/1938	Nicole Furmston	museum	6.5	Europe/Tirane	technology
+Jēkabpils	1034652	73291.5	614.86	5/10/1783	Blakelee Gerrets	park	-12.0	Europe/Riga	technology
+Yegor’yevsk	4095423	29881.7	550.45	9/7/1864	Napoleon Bradnum	monument	28.7	Europe/Moscow	manufacturing
+Potosí	8902959	56012.75	413.24	4/27/1712	Ellie Pummell	park	37.5	America/La_Paz	manufacturing
+Promna	6746103	96258.64	677.78	6/18/1877	Brynn Starmore	monument	-8.0	Europe/Warsaw	manufacturing
+Courtaboeuf	9505680	92085.42	989.06	2/27/1810	Sandra Jersch	park	-12.9	Europe/Paris	manufacturing
+Perivólia	7698909	71558.36	450.93	1/29/1920	Delphinia Atyea	park	25.0	Asia/Nicosia	manufacturing
+Pameungpeuk	3408037	57928.04	820.17	11/23/1758	Lowell Kirstein	monument	-16.0	Asia/Jakarta	technology
+Kotkot	3788337	46608.98	680.37	8/2/1735	Corney McLeish	museum	16.2	Asia/Manila	manufacturing
+Suzhou	2381976	34331.08	944.63	7/5/1853	Yance Espley	park	-14.6	Asia/Urumqi	tourism
+Parry Sound	3993263	82328.29	444.55	3/10/1914	Worth Piddington	museum	-16.5	America/Toronto	manufacturing
+Machinga	479298	78121.59	829.42	5/2/1956	Schuyler Wardrop	museum	-16.4	Africa/Blantyre	manufacturing
+Krzemieniewo	8895028	57118.22	896.32	6/8/1910	Kevina Dilger	monument	12.4	Europe/Warsaw	technology
+Ţafas	1622962	91366.39	651.05	9/8/1770	Arlena Cheers	museum	-11.3	Asia/Damascus	manufacturing
+Kurayyimah	6860886	44217.0	631.32	3/1/1793	Jackquelin Skrine	monument	-3.1	Asia/Amman	manufacturing
+Nova Viçosa	5087671	49088.39	825.34	9/6/1904	Ulysses Ianitti	museum	37.5	America/Bahia	manufacturing
+Beixiang	6776540	72316.5	961.65	12/1/1705	Agosto Carlsen	monument	-11.4	Asia/Chongqing	tourism
+Bayan Qagan	9540002	56755.36	251.74	5/30/1773	Craggy Trood	museum	12.8	Asia/Harbin	manufacturing
+Maluanluan	8190620	33422.88	14.5	3/18/1837	Jana Gillet	museum	-15.5	Asia/Manila	tourism
+Shypyntsi	1237715	37317.79	323.62	9/3/1766	Gaston Bartolini	museum	-0.8	Europe/Uzhgorod	tourism
+Mendez-Nuñez	7854331	93751.14	22.77	6/27/1834	Bobbette Purry	monument	17.2	Asia/Manila	tourism
+Tambak	201713	76397.41	889.29	3/2/1822	Worden Castelluzzi	museum	36.9	Asia/Manila	manufacturing
+Emmen	1690225	51641.48	756.07	6/14/1854	Carmita Paolone	museum	39.9	Europe/Amsterdam	technology
+Chanthaburi	9209084	45731.61	608.58	8/9/1988	Jeffrey Crudginton	museum	2.5	Asia/Bangkok	manufacturing
+Cartagena del Chairá	4125916	36383.64	244.08	11/25/1912	Roger Mallebone	park	31.1	America/Bogota	technology
+Bofuer	5347665	36427.99	908.22	12/14/1724	Baillie Perel	park	4.8	Asia/Jayapura	tourism
+Kemiri	4362563	48673.03	115.66	10/19/1889	Melvyn Jura	park	-0.7	Asia/Jakarta	tourism
+São Mateus	1276735	75803.7	891.89	5/1/1935	Gloriane Ramage	museum	26.6	America/Sao_Paulo	technology
+Gafsa	9885177	73841.47	224.69	6/2/2008	Adelice Robion	museum	-15.0	Africa/Tunis	technology
+Campo Maior	1799057	49614.99	597.63	9/4/1864	Georas Gilvear	museum	3.2	America/Fortaleza	manufacturing
+Gramoteino	8628722	59058.08	568.89	11/30/1953	Ethelind Haggith	monument	0.1	Asia/Novokuznetsk	manufacturing
+Xinpu	3267005	99793.1	403.57	4/13/1915	Cornie Manwaring	museum	-1.9	Asia/Chongqing	manufacturing
+Naji	171960	37772.56	864.56	12/20/1852	Susann Twatt	museum	29.0	Asia/Chongqing	technology
+Klirou	5231294	54589.01	974.62	4/4/2012	Sharline Pumfrey	park	25.7	Asia/Nicosia	manufacturing
+Sanlanbahai	8348552	83663.82	331.39	8/8/1775	Hillary Jerzycowski	museum	39.1	Asia/Chongqing	tourism
+Luoshan	2108068	60004.42	855.08	8/28/1754	Julee Kleinstein	park	23.7	Asia/Shanghai	manufacturing
+Naebugis	9072677	21984.48	967.58	10/30/1873	Sheree Gueinn	park	27.7	Asia/Makassar	manufacturing
+Villa Altagracia	1172393	34461.93	696.47	9/29/1856	Sheelagh Jaan	museum	38.5	America/Santo_Domingo	technology
+Fenghuo	8355835	65047.0	110.24	8/14/1740	Blakeley Attawell	park	1.0	Asia/Chongqing	technology
+Črenšovci	8131159	77221.84	245.02	12/1/1859	Batsheva Menat	monument	30.7	Europe/Zagreb	tourism
+Baoshi	1629265	92344.21	901.95	5/4/1974	Trish Tomasik	monument	-4.2	Asia/Harbin	tourism
+Oslo	6914553	56995.0	984.8	11/3/2005	Vaughan Greenlees	monument	-0.4	Europe/Oslo	manufacturing
+Chiang Yuen	8709532	94671.39	942.5	7/23/1801	Crissy Kimmerling	museum	27.5	Asia/Bangkok	technology
+Xieyang	4670101	29131.28	136.22	12/11/1704	Nettie Ianiello	monument	-6.7	Asia/Shanghai	technology
+Pasir	447241	28558.04	395.97	7/3/2003	Byrann Lindenbluth	park	-14.1	Asia/Jakarta	technology
+Vân Canh	8590541	97291.57	684.85	10/18/1819	Dennie McCay	museum	-3.5	Asia/Ho_Chi_Minh	manufacturing
+Xiayunling	3714395	21775.18	285.88	8/4/1972	Elly Norrington	museum	3.0	Asia/Shanghai	manufacturing
+Balaklava	8789667	54466.34	84.73	1/8/1721	Gearard MacCarter	monument	32.4	Europe/Simferopol	technology
+Kalnibolotskaya	9552946	25344.86	506.62	11/13/1966	Avril Marcoolyn	park	30.3	Europe/Moscow	tourism
+Simuay	4707
+NEW CHUNK OF DATA
+460	97620.1	407.45	6/15/1812	Kiah Orrocks	monument	13.3	Asia/Manila	manufacturing
+Tutong	7027789	47162.9	642.68	2/23/1715	Martguerita Cresswell	park	-18.2	Asia/Brunei	tourism
+Xankandi	2237092	35414.5	361.81	12/27/1964	Tamra Parren	museum	21.8	Asia/Baku	technology
+Calceta	9495580	29331.94	950.81	12/9/1791	Felicia Hatter	park	-17.8	America/Guayaquil	tourism
+Uyo	1039119	22212.68	826.96	6/22/1872	Fawne Spilstead	park	-12.5	Africa/Lagos	technology
+Santa Catalina	8957370	79558.56	791.05	3/18/1961	Jeana Rosevear	monument	-18.0	Asia/Manila	manufacturing
+Lagangilang	2829208	52103.79	915.29	12/16/1867	Angelo Lethcoe	monument	28.0	Asia/Manila	technology
+Vetluzhskiy	5163717	44729.03	305.61	3/14/1996	Merrielle Langhorne	museum	-18.0	Europe/Moscow	technology
+Terong	1592868	43415.81	374.0	7/17/1830	Ross Esch	monument	10.1	Asia/Makassar	manufacturing
+Uyutne	296885	34807.75	678.45	4/26/1748	Kelley Lebrun	park	5.4	Europe/Simferopol	tourism
+Kopashnovo	1141241	47429.48	866.95	4/8/1924	Shae Rosa	monument	38.0	Europe/Uzhgorod	tourism
+Yongchang	2511194	35893.15	250.97	9/11/1883	Gwenette Brittle	monument	16.9	Asia/Shanghai	manufacturing
+Nasavrky	3111179	35538.78	693.23	3/30/2005	Doyle McVanamy	monument	35.1	Europe/Prague	technology
+Cingambul	3914225	69312.8	554.5	8/11/1714	Collie Keyser	monument	-18.1	Asia/Jakarta	manufacturing
+Belfast	2254465	53853.03	146.99	8/1/2007	Rusty Bedberry	park	-16.8	Europe/London	tourism
+Longyearbyen	6430244	20175.0	909.42	8/19/1998	Brnaby Matzen	monument	30.3	Arctic/Longyearbyen	manufacturing
+Monte do Outeiro	9326808	92902.17	656.16	5/7/1917	Carleton Rydzynski	monument	15.7	Europe/Lisbon	manufacturing
+Pyhäsalmi	8250265	81377.47	405.32	10/9/1851	Terence Syson	monument	1.9	Europe/Helsinki	manufacturing
+Saño	8533296	28402.11	609.36	2/14/1791	Ty Froschauer	park	-2.9	America/Lima	technology
+Sugihwaras	7159560	27719.75	240.37	4/30/2017	Leighton Trevor	park	-2.7	Asia/Jakarta	tourism
+Tanjungkerta	8786301	58749.3	73.63	11/19/1975	Adena Hortop	museum	20.4	Asia/Jakarta	manufacturing
+Lapaz	9061695	41194.8	140.9	2/15/1977	Domingo Laba	park	2.4	Asia/Manila	manufacturing
+København	1836057	24802.6	977.71	5/21/1802	Fernandina Kinningley	museum	-4.3	Europe/Copenhagen	technology
+Veldhoven	9835511	41520.67	947.56	4/4/1812	Valeria Mongain	museum	35.3	Europe/Amsterdam	manufacturing
+Ainaži	286399	59041.93	515.22	7/14/1800	Timothee Firpo	monument	16.2	Europe/Tallinn	technology
+Ribeirão	9406961	87465.46	260.27	12/6/1957	Conn Gwin	park	23.2	America/Recife	technology
+Arzakan	6365089	48422.37	642.32	11/20/2018	Eleanor Grossier	museum	4.5	Asia/Yerevan	tourism
+Yimnón	8486979	67975.94	113.58	1/21/1735	Jacklin Storer	museum	-15.8	Europe/Athens	tourism
+Tsil’na	5184851	97028.01	715.65	4/6/1925	Jerome Hundy	museum	1.6	Europe/Volgograd	manufacturing
+Shangyi	6464892	51643.91	11.93	6/3/1703	Jacquie Farren	museum	3.9	Asia/Chongqing	tourism
+Ansongo	5748351	72619.37	378.59	1/23/1780	Marianne O'Daly	museum	16.3	Africa/Bamako	technology
+Korenëvo	9137409	76953.43	291.36	9/27/1907	Danika Brognot	museum	25.2	Europe/Moscow	tourism
+Luthu	621808	90829.78	703.4	8/18/1975	Allina Paton	park	1.2	Asia/Jakarta	manufacturing
+Narva-Jõesuu	9199224	83997.73	380.69	12/6/1817	Lucky Maylard	monument	7.0	Europe/Tallinn	tourism
+Papringan	4978677	70521.51	378.44	1/4/2019	Nikolas Forde	museum	26.5	Asia/Jakarta	manufacturing
+Tanqiao	4542567	68470.44	440.58	11/11/1934	Clemmy Hyndes	museum	39.1	Asia/Chongqing	technology
+Palmitas	1813390	49797.4	54.66	4/1/1708	Shell Hicklingbottom	monument	-9.8	America/Montevideo	manufacturing
+Dzyatlava	283931	45338.85	143.65	4/7/1856	Jelene Domesday	park	17.4	Europe/Minsk	tourism
+Maguilling	6397147	38860.47	996.32	1/8/1830	Mercie Gladeche	museum	-18.3	Asia/Manila	technology
+Wa	7276035	85041.57	997.61	8/21/1881	Terri-jo Tabord	museum	1.7	Africa/Accra	tourism
+Paraty	7522451	61767.44	529.66	4/5/1914	Sherye Jeune	museum	30.3	America/Sao_Paulo	manufacturing
+San Salvador	5949494	68254.93	907.42	3/25/1790	Alfy Haresnape	museum	31.6	America/El_Salvador	manufacturing
+Chamlykskaya	7202114	47452.9	498.57	4/24/1974	Stacie McKimm	museum	22.8	Europe/Moscow	technology
+Sodankylä	4969171	96131.46	869.3	9/21/1959	Lavena Eates	park	2.4	Europe/Helsinki	technology
+Chabany	9695921	85009.34	335.39	9/25/1857	Anastasie Burrow	museum	35.3	Europe/Kiev	manufacturing
+Igpit	7229762	68768.31	478.69	6/24/1936	Reade Manlow	museum	1.8	Asia/Manila	manufacturing
+Labuhantanggabesar	2182961	90824.76	699.21	4/26/1989	Mendie Baggelley	park	-0.2	Asia/Jakarta	tourism
+Soledad	2820257	90326.26	40.87	5/14/1888	Dulcia Petcher	museum	18.9	America/Bogota	technology
+Lingion	5847401	42460.27	583.81	9/13/1704	Chester Garrelts	monument	0.8	Asia/Manila	technology
+Trảng Bàng	3143158	34704.24	366.67	8/10/2014	Shanta D'Aeth	park	-2.3	Asia/Ho_Chi_Minh	technology
+Dalududalu	836970	86549.42	687.01	2/9/1958	Calla Dysert	park	28.9	Asia/Jakarta	technology
+Carpentras	2181100	37842.34	174.43	3/5/1873	Papagena Vasyukhin	park	19.0	Europe/Paris	tourism
+Santo Tomás	5700296	94318.28	659.29	8/22/1979	De witt Ancketill	museum	16.6	America/Managua	manufacturing
+Rajal Norte	2031070	29956.25	967.33	5/28/1790	Lammond Busfield	monument	-10.3	Asia/Manila	manufacturing
+Banī Mazār	6220866	65332.77	281.16	6/15/1883	Mariya Sanday	museum	2.4	Africa/Cairo	tourism
+Qinjiang	4495103	25932.04	869.71	1/6/1840	Waverly Vowles	park	-2.2	Asia/Shanghai	tourism
+Sajan	9998478	28555.02	213.96	1/15/1850	Witty de Tocqueville	park	36.7	Europe/Belgrade	manufacturing
+Arroyo Seco	9524162	53597.24	788.69	8/21/1847	Rorie Joplin	park	14.5	America/Argentina/Cordoba	technology
+Telnice	2839706	53725.09	464.24	6/29/1844	Livia Albrook	monument	39.2	Europe/Prague	tourism
+Stockholm	2454644	75086.2	89.41	3/3/2022	Kayle Jesteco	monument	14.4	Europe/Stockholm	technology
+Arauá	8551150	28161.14	662.23	12/15/1781	Leilah Filippazzo	museum	28.5	America/Maceio	tourism
+Yanjiao	260449	81595.97	90.42	9/26/1747	Errol Aynold	park	-15.8	Asia/Shanghai	technology
+Waipawa	6086055	68099.76	218.0	6/6/1771	Dyanna Comar	museum	27.6	Pacific/Auckland	tourism
+Pau	4385803	62011.1	486.05	11/6/1909	Krystalle Coxhead	monument	7.1	Europe/Paris	tourism
+Virden	1694177	42202.23	942.25	2/8/1797	Linn Gerg	monument	4.7	America/Winnipeg	tourism
+Tiblawan	3295861	86667.96	196.99	7/9/1924	Kelby McConnell	monument	35.9	Asia/Manila	tourism
+Zheshan	3809830	34446.04	488.39	10/3/1842	Dion Jeayes	museum	17.5	Asia/Chongqing	tourism
+Tarrafal de São Nicolau	196674	65350.71	175.64	6/8/1883	Blondell Ranson	monument	39.6	Atlantic/Cape_Verde	tourism
+Täby	5613701	89923.09	876.28	5/17/1834	Neil Balderson	museum	-4.7	Europe/Stockholm	tourism
+Bonik	3611284	21735.21	891.71	12/19/1926	Teodorico Frankling	park	-1.5	Asia/Makassar	manufacturing
+Las Piñas	4657465	95196.16	183.06	5/8/1960	Aggie Lacrouts	park	25.7	Asia/Manila	tourism
+Jiekou	3182093	82571.52	772.7	8/2/1815	Lamond Cord	park	37.5	Asia/Chongqing	manufacturing
+Yumbe	1350506	47344.68	615.85	11/20/1958	Laure Covolini	monument	-3.4	Africa/Kampala	manufacturing
+Santa Cruz do Capibaribe	5478147	39170.22	132.45	12/3/1775	Dynah Trembley	park	23.9	America/Recife	manufacturing
+Novomoskovsk	11832	95016.22	267.74	9/26/1759	Judye Bernardoni	park	21.4	Europe/Moscow	technology
+Laiyang	4707721	45767.67	446.03	10/3/1742	Kingston Varley	museum	7.1	Asia/Shanghai	tourism
+Morro do Chapéu	4706300	93704.4	260.27	3/24/1991	Myrna Todman	museum	39.0	America/Bahia	manufacturing
+Al Masallamiyya	6140508	77832.93	572.45	2/9/2004	Elsinore Peres	monument	-15.4	Africa/Khartoum	manufacturing
+Hrochův Týnec	5184486	44445.27	983.88	5/3/1923	Vanny Hargreaves	museum	16.0	Europe/Prague	tourism
+Yola	6933636	25901.5	236.15	4/23/1936	Liza Woolens	park	-12.6	Africa/Lagos	tourism
+Bafilo	7238594	35143.72	838.18	4/12/1749	Wildon Noades	museum	29.6	Africa/Lome	tourism
+Talangbetutu	2237707	41445.73	954.45	2/9/1828	Biddie Lohden	monument	-9.3	Asia/Jakarta	tourism
+Irupi	615024	87438.51	680.88	8/5/1848	Dyann Kave	park	13.3	America/Sao_Paulo	manufacturing
+Metsemotlhaba	1842415	39607.23	390.49	7/22/1931	Nicko Gounard	museum	-17.6	Africa/Gaborone	technology
+Atamanovka	4145847	40709.95	214.33	10/13/1935	Babs Faucherand	museum	-13.0	Asia/Yakutsk	technology
+Kugri	6897281	38349.53	549.28	6/26/2006	Thorndike Cudd	park	-4.5	Asia/Chongqing	manufacturing
+Sukamenak	4002617	37714.14	778.56	12/14/1736	Trula Cluet	park	28.6	Asia/Jakarta	tourism
+Takanabe	5600864	46755.4	18.91	12/20/1780	Deny Eckh	monument	-5.1	Asia/Tokyo	manufacturing
+Szczerbice	3557199	78828.1	208.13	12/19/1790	Carlotta Gagg	monument	-10.2	Europe/Warsaw	manufacturing
+Mae Chan	2124879	81414.69	875.89	6/27/1771	Vivyan Gasgarth	monument	32.0	Asia/Bangkok	technology
+Guoxiang	5985340	43078.14	506.45	2/10/1799	Cooper Frith	monument	3.1	Asia/Shanghai	tourism
+Oslo	1045159	98506.35	221.73	8/20/1994	Ashlee Sudron	museum	29.8	Europe/Oslo	technology
+Ebetsu	8416810	47196.5	200.42	9/20/1794	Darin Le Friec	monument	37.7	Asia/Tokyo	manufacturing
+Houston	2610831	70192.07	993.18	6/30/1992	Juli Grishmanov	park	-7.6	America/Chicago	tourism
+Mönchengladbach	2489706	45637.88	981.34	7/25/1789	Catie Roocroft	museum	33.2	Europe/Berlin	tourism
+Kokkinóchoma	2758633	51605.19	166.82	12/1/1887	Gayle Eilhart	monument	25.5	Europe/Athens	technology
+Vallentuna	5148102	49940.63	201.52	5/11/1896	Konstantin Darnbrough	monument	5.8	Europe/Stockholm	manufacturing
+Khurriānwāla	1358237	44800.57	943.5	9/10/1805	Salome Chadderton	monument	-15.0	Asia/Karachi	manufacturing
+Hexi	4836420	89077.15	849.71	3/24/1967	Albrecht Hassin	park	32.2	Asia/Chongqing	technology
+Yalagüina	2984142	68805.55	829.28	1/23/1754	Calli Bollum	park	7.8	America/Managua	tourism
+Tsagaan-Ovoo	479519	59310.62	223.38	5/1/1754	Tory Alsop	museum	13.8	Asia/Ulaanbaatar	manufacturing
+Galižana	3556684	31475.43	209.56	2/5/1776	Auberon Sneyd	monument	18.6	Europe/Zagreb	technology
+Arkalyk	7113997	27205.97	742.77	7/15/1750	Ardene Lassell	monument	-18.3	Asia/Almaty	manufacturing
+Kalibuntu	6702298	78895.69	211.15	11/10/1930	Regina Edinburgh	park	4.4	Asia/Jakarta	tourism
+Kadusimbar	6963863	22952.99	501.56	11/3/1799	Emmye Abelevitz	park	9.6	Asia/Jakarta	manufacturing
+Independencia	8441843	67654.34	683.73	7/4/1951	Tobin Chewter	monument	-9.4	America/Mexico_City	manufacturing
+Maun	4015451	78194.61	42.84	10/18/1764	Balduin Upjohn	monument	23.9	Africa/Gaborone	manufacturing
+Xiakouyi	3149150	47178.65	939.7	11/8/1860	Amber Bowling	monument	38.4	Asia/Chongqing	manufacturing
+Magugu	6444174	64669.14	750.49	11/25/2020	Clair Elphick	museum	-14.3	Africa/Dar_es_Salaam	tourism
+Kuala Belait	1452125	21384.73	755.4	1/5/1987	Zeke Kerbler	museum	-0.9	Asia/Brunei	manufacturing
+Velká Polom	2948282	84753.65	198.85	3/14/1799	Licha Connerry	monument	14.4	Europe/Prague	technology
+Dalmeny	8943484	82710.08	289.51	8/13/1920	Mack Bazell	museum	37.0	America/Regina	manufacturing
+Bogale	3793007	51679.75	242.63	4/17/1744	Welsh Tarn	museum	2.4	Asia/Rangoon	tourism
+Diekirch	7471143	96363.65	655.45	5/15/1789	Fanchon Scrogges	museum	38.3	Europe/Luxembourg	technology
+Wangshi	8604250	37856.35	165.44	10/14/1795	Chevy Lorant	monument	-15.5	Asia/Harbin	technology
+Kertayuga	7015450	45154.14	788.11	11/27/1863	Rik Skeats	museum	34.7	Asia/Jakarta	technology
+Guiglo	4029547	61854.89	671.71	5/5/1745	Tiffanie Gentreau	museum	12.8	Africa/Abidjan	manufacturing
+Rego de Água	997963	76137.39	418.03	1/20/1949	Clemmie Headan	park	11.6	Europe/Lisbon	tourism
+Barão de Cocais	9798923	96032.57	571.25	7/24/1918	Rafaelita Baudinot	park	24.1	America/Sao_Paulo	tourism
+Damiao	559477	23157.27	244.47	11/10/1822	Sergeant Glawsop	museum	-10.7	Asia/Chongqing	tourism
+Dārān	4048512	34236.32	513.7	2/9/1759	Kristien Twigley	museum	21.5	Asia/Tehran	manufacturing
+Wola Filipowska	3919886	73602.1	715.3	8/31/2016	Michelle Geare	museum	1.3	Europe/Warsaw	tourism
+Juupajoki	7503647	71426.99	749.07	11/3/1796	Mike Grute	monument	15.6	Europe/Helsinki	manufacturing
+Anjihai	6343343	27896.11	706.3	5/29/1772	Meredith Petrasek	monument	15.7	Asia/Urumqi	tourism
+Dawwār Tīnjah	232872	83021.18	171.33	8/5/1890	Arlina Birrel	monument	-4.9	Africa/Tunis	technology
+Selasari	4781163	58029.01	942.17	8/27/1984	Mariquilla Airs	park	14.5	Asia/Jakarta	technology
+Zhaowu	3132345	38693.5	573.97	4/8/1986	Haily McCluin	museum	37.4	Asia/Chongqing	tourism
+Tawau	2261319	95936.26	220.77	6/30/1756	Reinald McCard	monument	-12.0	Asia/Kuching	manufacturing
+Tranås	2255559	75932.33	134.51	3/1/1732	Alisun Fullerlove	park	16.4	Europe/Stockholm	technology
+Kista	1298930	80868.85	814.54	4/18/1776	Harlan Jarratt	museum	7.5	Europe/Stockholm	tourism
+Sanqishi	7302469	51142.45	671.33	2/19/1717	Ephraim Janauschek	monument	-0.2	Asia/Shanghai	technology
+Padangbai	4352809	95313.45	558.79	6/9/1706	Colas Kreuzer	monument	0.1	Asia/Makassar	tourism
+Łaziska Górne	7099320	98326.72	456.32	2/27/1754	Barbaraanne Brindley	park	16.9	Europe/Warsaw	technology
+Sigaozhuang	6783772	58165.89	932.02	1/30/1794	Cassey Haugh	monument	8.3	Asia/Shanghai	technology
+Antipolo	1970504	29724.73	590.6	1/22/1802	Tybie Waghorne	museum	-17.8	Asia/Manila	tourism
+Waihi Beach	1783202	49800.44	794.26	10/27/1860	Wendeline Tuberfield	monument	-19.0	Pacific/Auckland	tourism
+Gangtun	6185529	87613.29	580.12	8/30/1790	Anissa Van der Beek	museum	-19.2	Asia/Harbin	tourism
+Dashkawka	7716732	56147.48	324.18	12/6/1978	Rafferty Lebbon	monument	1.3	Europe/Minsk	tourism
+Fort Worth	2702056	64743.44	532.67	11/8/1750	Missy Issacov	museum	-2.8	America/Chicago	technology
+Bāndarban	5541803	50104.1	208.06	5/1/1789	Stanfield Street	park	-17.8	Asia/Dhaka	technology
+Vichadero	6600553	58846.13	422.59	1/21/1794	Pauli Pimley	museum	-10.0	America/Sao_Paulo	technology
+Isoka	1484108	33971.54	241.94	9/13/1704	Ruperto Roggers	monument	37.2	Africa/Dar_es_Salaam	technology
+Repelón	3217132	48677.37	604.58	8/5/1941	Lilah Corrett	park	-10.0	America/Bogota	tourism
+Tournon-sur-Rhône	1045135	24021.21	268.89	11/29/1909	Agnes Ivanyutin	museum	-1.4	Europe/Paris	tourism
+Kazimierz Dolny	8472198	53384.02	945.82	11/8/1887	Perry Willcox	park	7.8	Europe/Warsaw	technology
+Kloangrotat	261065	56852.42	373.94	6/21/1928	Marley Tweddell	park	-17.2	Asia/Makassar	technology
+Cipatujah	4335152	73397.61	36.07	1/13/1760	Shina McIlheran	park	23.5	Asia/Jakarta	technology
+Manola	4567269	31843.45	336.63	5/20/1845	Rolfe Parell	park	11.1	Asia/Makassar	tourism
+Khok Charoen	3303551	82856.58	814.52	4/21/1836	Etienne Tabary	park	15.7	Asia/Bangkok	tourism
+Lizhuang	4437356	74454.43	812.19	2/6/1846	Darwin Lindenblatt	park	6.3	Asia/Chongqing	manufacturing
+Tomilino	3020948	62971.09	775.2	5/9/1992	Levy Aikenhead	park	14.3	Europe/Moscow	tourism
+Los Boquerones	2235457	70608.07	712.37	3/25/1841	Jackie Laetham	museum	-2.2	America/Panama	manufacturing
+Lagodekhi	2457380	49758.04	342.12	2/13/1783	Fianna Sturton	park	-19.2	Asia/Baku	tourism
+Elaiochóri	9793762	62279.54	163.47	1/22/1823	Yard Deyenhardt	park	20.2	Europe/Athens	tourism
+Wuhe Chengguanzhen	3929282	77746.35	56.55	4/29/1870	Cazzie Caisley	park	-4.9	Asia/Shanghai	manufacturing
+Bourg-lès-Valence	8165247	81459.25	378.74	6/4/1920	Lin Yeoman	monument	30.0	Europe/Paris	tourism
+Nowa Sarzyna	7721414	34050.65	887.97	1/26/1721	Sumner Yesichev	park	31.2	Europe/Warsaw	technology
+Néa Sánta	9555825	73680.37	885.49	12/4/1949	Reggy McInerney	museum	-2.5	Europe/Athens	manufacturing
+Bordeaux	4401325	82077.88	464.31	5/22/1855	Nolana O'Crevan	monument	2.6	Europe/Paris	tourism
+Tazouta	7005382	75466.24	394.47	10/5/2012	Natty Chisolm	park	17.5	Africa/Casablanca	tourism
+Olyshivka	706919	87278.88	341.43	11/26/1842	Tandy Johncey	park	-5.3	Europe/Kiev	tourism
+Belisario Dominguez	6058772	51009.53	754.56	10/22/1998	Sallyanne Punyer	park	6.3	America/Monterrey	tourism
+Besuki Dua	4713945	91934.82	481.63	5/14/2014	Emeline Arkwright	park	-7.0	Asia/Jakarta	technology
+Sanhe	6071897	53185.15	172.6	7/31/1837	Sherman Cluett	park	37.7	Asia/Chongqing	manufacturing
+Albarraque	1623358	51055.09	173.28	7/28/1707	Mala Reisenberg	park	-15.4	Europe/Lisbon	manufacturing
+Boden	9214920	84233.89	658.61	6/18/1937	Camilla Halfhide	monument	32.5	Europe/Stockholm	tourism
+Lavezares	2886585	65050.55	33.48	12/4/1850	Sherry Larrosa	park	-4.6	Asia/Manila	technology
+Aībak	5618387	42567.46	897.72	3/25/1774	Shell Domotor	monument	-19.1	Asia/Kabul	manufacturing
+Turanj	7001031	76135.1	951.25	5/16/1914	Burch Lyford	park	37.0	Europe/Zagreb	technology
+Västerås	3298983	60867.58	791.78	8/17/1844	Jermain Haisell	monument	-3.5	Europe/Stockholm	technology
+Pushkinskiye Gory	6095416	30453.68	831.05	6/25/1775	Nikki Everleigh	monument	1.4	Europe/Moscow	tourism
+Norrköping	1938187	57094.69	244.21	3/22/2006	Marnia Ledson	museum	1.4	Europe/Stockholm	technology
+Jincheng	1408630	30598.48	717.86	4/18/1814	Charles Gracey	park	-13.6	Asia/Shanghai	tourism
+El Retorno	2364044	61743.99	103.96	1/11/1846	Cheryl De Cruz	monument	33.3	America/Bogota	technology
+Calape	1401322	50872.65	789.81	8/15/1979	Shirley Sandercock	monument	11.9	Asia/Manila	technology
+Dailing	3242794	70087.68	399.72	8/11/1913	Lionel Woodcroft	monument	-13.1	Asia/Harbin	tourism
+Xinji	7614051	20103.92	593.16	3/29/1963	Davis Crofts	museum	19.8	Asia/Shanghai	manufacturing
+Wulong	6781375	35507.0	136.76	3/3/2005	Andromache L'Episcopio	monument	9.1	Asia/Chongqing	manufacturing
+Pacobamba	6849363	85034.51	65.5	5/29/1782	Darcey Mattacks	museum	33.1	America/Lima	manufacturing
+Canaman	912960	68385.02	634.48	3/5/1797	Rahel Matthessen	museum	13.6	Asia/Manila	technology
+Solkan	3335248	89554.18	626.0	10/13/1774	Mordy Ferrero	museum	16.5	Europe/Rome	manufacturing
+Oslo	1393582	43774.98	497.76	1/23/1977	Dody Hearnden	museum	31.7	Europe/Oslo	tourism
+Tuanalepe	7223082	76698.61	113.36	2/17/1942	Gordie Nertney	monument	5.4	Asia/Makassar	tourism
+Margorejo	3259788	57063.48	518.78	8/5/1775	Lionel Carmo	monument	-5.7	Asia/Jakarta	manufacturing
+Lelystad	4826593	42199.49	556.56	9/11/1990	Rica Dally	monument	-2.9	Europe/Amsterdam	technology
+Bergville	366687	48399.23	787.32	7/28/1999	Ulick Americi	museum	-7.3	Africa/Johannesburg	tourism
+Zavety Il’icha	9576330	39853.86	217.67	11/29/1961	Arnaldo Dolman	museum	6.1	Asia/Vladivostok	technology
+Kiboga	8018058	69973.21	744.27	8/24/1958	Ibby Watton	monument	-2.3	Africa/Kampala	technology
+Gwoźnica Górna	868104	95840.37	630.63	5/28/1700	Carlo Brakespear	monument	15.4	Europe/Warsaw	tourism
+Lixu	328685	79908.7	465.92	11/12/1838	Arty Vaudre	monument	12.2	Asia/Shanghai	technology
+Fatualam	9881318	69988.4	363.43	1/13/1764	Catlaina Ingles	monument	34.3	Asia/Makassar	tourism
+Lębork	5691062	60985.19	825.3	2/29/1760	Duky Wenzel	museum	37.9	Europe/Warsaw	technology
+Kidričevo	2773935	75446.92	333.73	3/9/1983	Vic Keoghan	monument	5.5	Europe/Ljubljana	tourism
+Klenica	520252	64563.06	990.61	3/21/1993	Shanie Braksper	park	15.2	Europe/Warsaw	manufacturing
+Sharga	5107162	81098.18	212.22	4/26/1950	Erika Rosenblad	park	39.9	Asia/Ulaanbaatar	tourism
+Dahewan	5772782	54893.35	660.6	9/10/1867	Alley Dameisele	park	20.0	Asia/Harbin	manufacturing
+Losino-Petrovskiy	3596423	91325.21	819.15	8/6/1967	Galina Tomczykowski	monument	16.4	Europe/Moscow	manufacturing
+Baliang	4406897	65954.02	634.77	12/5/1778	Nigel Fleg	museum	36.8	Asia/Chongqing	tourism
+Coruripe	3960340	57303.08	319.74	2/1/1985	Ermengarde Geach	park	-16.9	America/Maceio	technology
+Uglegorsk	8045214	62953.59	790.51	1/10/1998	Joey Craythorn	park	35.5	Asia/Magadan	tourism
+Al Misrākh	6508082	37639.46	977.31	12/26/1972	Gwynne Morrowe	museum	-7.6	Asia/Aden	technology
+Palaihari	6611818	20003.06	254.84	5/10/1922	Brigid Erat	park	6.5	Asia/Jakarta	technology
+La Mesa	706450	94495.72	608.5	10/19/1865	Katusha Orcott	monument	4.1	America/Panama	tourism
+Sikonge	1513359	99522.15	508.17	9/29/1882	Jamie Lemmen	park	-4.5	Africa/Dar_es_Salaam	technology
+Hässelby	6397014	60424.43	884.27	10/26/1733	Aloysia Koba	museum	28.8	Europe/Stockholm	manufacturing
+Portela	6391727	46928.44	885.14	4/27/1801	Uriel Whopples	park	17.9	Europe/Lisbon	technology
+São Pedro Gafanhoeira	3797128	87863.74	992.19	10/16/1890	Archy Leason	park	1.4	Europe/Lisbon	technology
+Elói Mendes	9605919	79312.65	971.75	6/10/1725	Lethia Morritt	park	0.2	America/Sao_Paulo	tourism
+Talangbetutu	3881769	49598.59	594.43	6/8/1704	Anthia Webermann	monument	8.4	Asia/Jakarta	manufacturing
+Spirit River	7069485	29262.97	337.85	11/23/1885	Mervin Thow	museum	-15.6	America/Edmonton	manufacturing
+Ban Na San	2169959	24255.48	229.95	9/24/2016	Madonna Petera	park	37.2	Asia/Bangkok	tourism
+Dahe	7383696	98448.51	102.64	3/18/1787	Reece Castletine	park	24.5	Asia/Shanghai	tourism
+Jankowice	5493262	81473.2	550.37	10/28/1849	La verne Fayers	monument	15.5	Europe/Warsaw	manufacturing
+Guyang	9015220	38841.25	121.39	8/13/1912	Winn Plumb	monument	38.4	Asia/Shanghai	tourism
+Siwa Oasis	6985653	75589.26	480.13	9/18/1888	Roley D'Elias	monument	39.8	Africa/Cairo	manufacturing
+Tsalka	2404362	86063.66	212.12	11/14/1989	Kelsy Summers	park	23.9	Asia/Tbilisi	manufacturing
+Palmasola	7062679	93433.32	441.7	8/16/1769	Nerta Churchard	museum	-8.4	America/Caracas	tourism
+Kobylanka	6791045	72880.04	306.97	5/1/1966	Cleveland Ginnety	museum	23.9	Europe/Warsaw	tourism
+Dolod	6752755	77504.34	214.88	11/10/1828	Morrie Mollitt	park	25.5	Asia/Harbin	tourism
+Roriz	6784568	31001.24	683.05	1/9/1901	Claudette Pickthall	park	22.0	Europe/Lisbon	technology
+Nezhinka	3625914	58797.45	668.37	11/7/1945	Casie Salvage	park	9.7	Asia/Yekaterinburg	technology
+Gul’cha	1481018	24791.56	242.08	2/20/1848	Regan Dowber	museum	22.5	Asia/Bishkek	technology
+Hénin-Beaumont	9984209	85010.78	937.92	4/17/1895	Percy Hiers	monument	12.3	Europe/Paris	tourism
+Hua Hin	2925012	57605.94	942.08	8/5/1862	Elwood Blanking	museum	-16.1	Asia/Bangkok	tourism
+San Francisco	7571639	83274.54	702.32	7/24/1915	Hammad Beamond	museum	5.3	Asia/Manila	technology
+Syców	8440953	98497.3	672.9	9/7/2017	Leopold Lintot	monument	7.9	Europe/Warsaw	manufacturing
+Pandak	4365660	58012.41	423.17	3/10/1766	Rhodie Fredy	museum	-9.4	Asia/Jakarta	tourism
+Norton	6662303	55191.56	430.62	4/11/1759	Max Goggin	park	11.0	Europe/London	technology
+Dajing	4778253	83527.56	938.26	10/25/1933	Tiler Lydiatt	monument	10.0	Asia/Shanghai	technology
+Qionghai	6544767	78374.76	398.56	3/30/2010	Herb Idney	park	17.9	Asia/Chongqing	technology
+Vanadzor	3100856	25904.43	886.61	10/14/1983	Anica Yarrall	park	25.0	Asia/Yerevan	tourism
+Rachanie	6718872	64472.8	303.45	3/15/1709	Filmer Schiersch	park	-1.6	Europe/Warsaw	tourism
+Langensari	6181038	68045.67	875.02	7/10/1707	Dion Moyers	museum	-9.7	Asia/Jakarta	tourism
+Shiyang	766362	35551.29	664.68	4/6/1852	Kerk Attew	museum	32.2	Asia/Shanghai	technology
+Dmitriyevskaya	3111525	66171.3	665.25	3/26/1969	Adamo Harpham	monument	-16.9	Europe/Moscow	tourism
+Horrom	6809065	92392.52	921.92	5/13/1780	Cristiano Mariaud	museum	4.2	Asia/Yerevan	technology
+Bagong Pagasa	1694036	96007.34	213.94	4/21/1817	Cyril Ruscoe	monument	-17.6	Asia/Manila	manufacturing
+Moyogalpa	2102887	56504.61	695.86	7/13/1975	Jemima Cust	museum	-9.7	America/Managua	technology
+Alvaro Obregon	1331332	85887.52	106.83	6/24/1988	Rodolphe Leys	museum	15.5	America/Monterrey	tourism
+Ridderkerk	2198312	72718.73	552.6	12/20/1973	Lorne Stronghill	park	0.7	Europe/Amsterdam	technology
+Huangtang	4148095	65049.53	898.63	2/20/2000	Brander Adamiec	monument	19.0	Asia/Shanghai	manufacturing
+Bizhou	8482621	77198.51	600.01	3/24/1770	Curtice Rembaud	museum	24.0	Asia/Harbin	manufacturing
+Marne-la-Vallée	1260126	88321.08	537.86	8/15/1889	Lavinie Coverdill	park	-10.7	Europe/Paris	technology
+Uzdin	3344896	36419.13	583.47	12/13/1831	Lind Boggas	park	20.8	Europe/Belgrade	tourism
+Makata	5289361	66150.67	765.54	6/19/1777	Charla Ivanchenkov	park	33.1	Africa/Blantyre	tourism
+Progreso	9114576	79456.36	690.59	1/24/1990	Natka Eagling	park	-15.6	America/Panama	technology
+Nāgarpur	4025629	44434.26	861.97	5/14/1877	Allie Urquhart	park	-16.3	Asia/Dhaka	tourism
+Jixing	4514432	33322.36	997.17	11/1/1952	Kristoffer Beves	museum	-4.0	Asia/Harbin	manufacturing
+Papatowai	3610309	71065.44	728.97	2/26/1831	Saul Lugg	park	30.9	Pacific/Auckland	technology
+Itabaianinha	3849258	77998.5	488.34	7/3/2015	Ariana Calladine	park	-7.6	America/Maceio	technology
+Tongli	5918060	72743.23	711.41	4/16/1823	Ursala Linnard	park	-7.6	Asia/Shanghai	tourism
+Xinwu	2934251	48194.36	938.2	12/15/2004	Jen Americi	park	33.4	Asia/Chongqing	technology
+Woloara	9011724	92917.21	730.93	12/21/1776	Robinet Nesterov	monument	-2.8	Asia/Makassar	manufacturing
+Rawuk	6520943	77699.73	381.71	1/4/1838	Richard Stanyer	museum	32.4	Asia/Makassar	technology
+Jojoima	9649172	44160.25	301.76	6/18/1839	Conrado Lecount	park	12.8	Africa/Freetown	technology
+Mabuhay	656265	55902.88	236.17	2/25/2022	Nettle Warsop	park	-7.8	Asia/Manila	tourism
+Mykonos	6812904	66717.95	819.03	9/20/1907	Melodee Northleigh	museum	26.7	Europe/Athens	tourism
+Watunggong	2579323	23168.43	203.05	8/19/1703	Kory Sandeland	museum	5.7	Asia/Makassar	technology
+Kotauneng	4919074	57914.84	269.09	3/1/1900	Phineas Nerger	museum	27.0	Asia/Makassar	technology
+Atalaia	5615735	43653.87	780.71	4/20/1731	Byram Cerman	park	12.9	Europe/Lisbon	technology
+Alajuelita	9681730	60453.65	226.4	1/30/1960	Callean Jauncey	museum	3.1	America/Costa_Rica	tourism
+Ardino	6293689	37937.32	57.59	1/2/1748	Hank Barge	monument	14.5	Europe/Sofia	manufacturing
+Yixingfu	7169397	61608.3	974.62	11/14/1720	Afton Guidoni	museum	26.1	Asia/Shanghai	tourism
+Eisen	6173570	72008.15	805.97	10/12/1703	Bonnibelle Marklund	monument	27.3	Asia/Seoul	tourism
+Landerneau	5231778	42156.75	76.68	5/29/1834	Stefania Ourry	museum	-2.7	Europe/Paris	technology
+Sucre	6948814	72688.22	76.55	5/7/1966	Lucille Baxstair	museum	11.3	America/La_Paz	technology
+Khovd	9599050	92936.4	181.94	4/10/1836	Jammal Geater	monument	7.8	Asia/Ulaanbaatar	manufacturing
+Gualeguaychú	7151609	75996.47	433.43	8/1/1727	Dodie Hetterich	museum	30.3	America/Argentina/Cordoba	tourism
+Phu Khiao	7138947	32755.45	588.89	2/24/1937	Andi Orknay	monument	9.8	Asia/Bangkok	technology
+Vrachnaíika	7439330	52115.31	581.45	5/14/1939	Boigie Horbart	park	3.1	Europe/Athens	manufacturing
+Nanpu	3099918	20364.41	451.07	8/8/1943	Jourdain Gogay	monument	-8.6	Asia/Shanghai	technology
+Januszkowice	7572870	84897.57	38.66	10/23/1812	Christi Borman	museum	1.3	Europe/Warsaw	technology
+Monteros	8087657	70770.91	305.69	3/8/1880	Sydelle de Glanville	monument	17.7	America/Argentina/Tucuman	technology
+Banggel	2955170	55024.09	451.84	6/9/1778	Lynde Hoyer	park	20.7	Asia/Jakarta	manufacturing
+Bergen	2045145	20947.08	299.94	2/4/1956	Bayard Ramet	monument	8.4	Europe/Oslo	tourism
+Xaçmaz	7075918	32829.65	828.77	8/2/1807	Denni Mingey	park	6.2	Asia/Baku	manufacturing
+Luotaping	3933470	35973.19	291.91	1/23/1985	Stuart Chucks	monument	22.6	Asia/Chongqing	tourism
+Novospasskoye	7108816	93970.54	625.14	12/15/1932	Hershel Sprasen	monument	-8.0	Europe/Samara	technology
+Koumra	705452	63021.29	527.06	4/2/1916	Erma Clyne	monument	36.3	Africa/Ndjamena	technology
+Santa Bárbara	85995	40455.75	952.92	3/1/1811	Aurelia Anderer	park	7.0	America/Caracas	tourism
+Alarobia	8489329	28582.71	532.51	1/20/1916	Francisca Gaenor	museum	-17.5	Indian/Antananarivo	technology
+La Rochelle	9995042	83045.38	306.35	3/30/1987	Kristyn Winders	park	25.1	Europe/Paris	technology
+Tulsa	8630419	51035.35	227.83	1/25/1729	Mel Haythorn	park	-15.9	America/Chicago	manufacturing
+Sifala	7386251	21837.16	632.29	1/4/1827	Abbi Cutill	monument	5.1	Asia/Makassar	technology
+Urdaneta	7452070	20725.77	434.69	7/18/1944	Johnathon Duffitt	park	14.0	Asia/Manila	manufacturing
+Presidencia Roque Sáenz Peña	7487451	68387.48	11.23	11/30/1845	Fanny Makiver	monument	26.3	America/Argentina/Cordoba	manufacturing
+Arco de Baúlhe	9567964	43117.41	741.15	5/1/2019	Jamey Santacrole	monument	37.4	Europe/Lisbon	technology
+Lelystad	9745051	32485.53	622.7	8/12/1931	Herman Bierman	museum	-8.4	Europe/Amsterdam	technology
+Irapa	9230299	83315.29	988.91	12/16/1794	Krishna Guidi	park	23.1	America/Caracas	tourism
+Banjar Sebual	8561856	78889.1	780.37	11/12/1714	Leonie Shrubb	park	-1.3	Asia/Makassar	manufacturing
+Bentar	3604493	42253.07	569.48	10/10/1721	Barton Meigh	park	5.8	Asia/Jakarta	tourism
+Barakani	7116655	61047.19	799.3	8/29/1751	Reinald Nolot	monument	-10.4	Indian/Comoro	technology
+Hroznětín	6089698	97242.1	864.84	3/30/1969	Davida Longhi	park	4.5	Europe/Prague	technology
+Jintun	9327502	62223.71	200.1	6/16/1809	Candi Towler	park	37.7	Asia/Shanghai	tourism
+Verkhov’ye	3782525	89813.8	551.42	10/8/2008	Rolando Marsters	park	-17.2	Europe/Moscow	manufacturing
+Gorzyczki	2391405	85783.34	616.41	4/5/1851	Trude Yakobovicz	monument	32.5	Europe/Prague	manufacturing
+Huyunxiang	3460627	24143.73	605.61	7/10/1898	Mikol Brevetor	monument	-19.6	Asia/Shanghai	manufacturing
+Somovo	2261451	45767.52	885.23	8/3/1807	Ward Byne	museum	-3.9	Europe/Moscow	manufacturing
+Winter Haven	1208405	30577.16	421.35	5/18/1760	Janet Sangar	museum	15.8	America/New_York	technology
+Xinxian	2401819	32657.51	517.17	7/19/1731	Noemi Pabel	park	-10.4	Asia/Shanghai	manufacturing
+Danané	2727140	43513.08	284.64	3/20/1743	Barbara Shillitto	park	30.2	Africa/Abidjan	technology
+Albertville	6972082	38953.76	643.72	3/14/1915	Harris Tuddall	park	10.2	Europe/Paris	technology
+Hefu	1877558	46078.73	71.01	7/7/1713	Veda Huey	monument	15.1	Asia/Shanghai	manufacturing
+Ouyang	5501674	78664.03	981.07	2/13/1719	Fay Brierton	park	-4.9	Asia/Chongqing	tourism
+Chunxi	6942835	94565.16	944.67	5/8/1885	Auroora Parmby	monument	18.8	Asia/Shanghai	technology
+Rokytne	7836481	27303.1	545.11	11/5/2000	Carmelina Brognot	monument	-5.5	Europe/Kiev	tourism
+Piasek	4373050	78954.62	237.76	10/17/1773	Janene Pree	museum	11.7	Europe/Warsaw	manufacturing
+Samagaltay	5534942	49284.57	723.95	1/18/1919	Isidora Fowler	park	35.7	Asia/Krasnoyarsk	technology
+Lapaz	2486714	82088.94	800.74	5/8/1919	Theodore Gibby	park	3.4	Asia/Manila	tourism
+Camaquã	4035871	54147.01	642.98	6/24/1886	Vivian Grossier	park	1.9	America/Sao_Paulo	tourism
+Dayrūţ	7255691	65688.98	279.04	10/18/1998	Elayne Coop	monument	-0.4	Africa/Cairo	manufacturing
+Saubara	3881964	52023.12	662.18	8/15/1905	Lindsay Sammon	park	21.6	America/Bahia	tourism
+Sundsvall	6023801	85296.0	217.6	5/27/1806	Alanah Hourihan	museum	19.3	Europe/Stockholm	manufacturing
+Ershilipu	2449494	69541.45	686.04	1/11/1869	Bendite Barns	monument	2.9	Asia/Shanghai	tourism
+Salas	1836065	37931.9	696.73	8/31/1857	Lucinda Kiddle	monument	-17.7	America/Lima	tourism
+Huangjindong	8956367	32608.61	781.49	6/13/2015	Teodora Dober	park	1.7	Asia/Chongqing	technology
+Youxikou	2491174	88355.01	246.65	5/8/1815	Leona Potten	museum	17.7	Asia/Shanghai	manufacturing
+Washington	7844246	54860.59	547.8	11/7/1791	Merline Mylchreest	museum	28.7	America/New_York	tourism
+Machachi	944156	24025.42	373.72	12/26/1787	Conny Tomblett	museum	3.6	America/Guayaquil	tourism
+Chalchuapa	2570199	86196.26	973.17	9/10/1951	Isac Broderick	museum	7.7	America/El_Salvador	technology
+Znamenskoye	1301152	38236.8	817.06	8/11/1729	Bron Clackson	park	23.2	Europe/Moscow	manufacturing
+Glugu	4257557	35762.48	79.96	12/4/1966	Saunder Dummett	monument	32.1	Asia/Jakarta	tourism
+Ramaram	5536952	92504.77	192.89	9/3/1921	Ruperto Cuxon	monument	30.2	Asia/Jakarta	tourism
+Baizhu	9262319	45595.54	677.38	5/27/1934	Timothee Maxwell	museum	19.4	Asia/Chongqing	manufacturing
